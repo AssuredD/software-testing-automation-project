@@ -1,0 +1,170 @@
+22:28:40.797 INFO  utilities.Util -Current Date and Time :: 06_06_2020 22_28_40
+22:28:40.810 INFO  utilities.ExtentManager -*********** Report Path ***********
+22:28:40.811 INFO  utilities.ExtentManager -C:\Users\cheap\workspace\letskodeit/reports/AutomationReport_06_06_2020 22_28_40.html
+22:28:40.811 INFO  utilities.ExtentManager -*********** Report Path ***********
+22:28:40.987 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+22:28:40.987 INFO  base.TestListeners -These methods will be executed in this <test> tag
+22:28:40.987 INFO  base.TestListeners -CheckboxBMW
+22:28:40.987 INFO  base.TestListeners -CheckboxBenz
+22:28:40.987 INFO  base.TestListeners -CheckboxHonda
+22:28:40.987 INFO  base.TestListeners -alert
+22:28:40.987 INFO  base.TestListeners -clickRadioBtnBenz
+22:28:40.987 INFO  base.TestListeners -clickRadioBtnHonda
+22:28:40.987 INFO  base.TestListeners -clickRadioButtonBMW
+22:28:40.988 INFO  base.TestListeners -hideTextBox
+22:28:40.988 INFO  base.TestListeners -mouseHover
+22:28:40.988 INFO  base.TestListeners -multipleSelectionApple
+22:28:40.988 INFO  base.TestListeners -multipleSelectionOrange
+22:28:40.988 INFO  base.TestListeners -multipleSelectionPeach
+22:28:40.988 INFO  base.TestListeners -openWindow
+22:28:40.988 INFO  base.TestListeners -selectDropdownBenz
+22:28:40.988 INFO  base.TestListeners -selectDropdownBmw
+22:28:40.988 INFO  base.TestListeners -selectDropdownHonda
+22:28:40.988 INFO  base.TestListeners -showTextBox
+22:28:40.988 INFO  base.TestListeners -switchWindow
+22:28:40.988 INFO  base.TestListeners -tableTextAuth1
+22:28:40.988 INFO  base.TestListeners -tableTextAuth2
+22:28:40.988 INFO  base.TestListeners -tableTextAuth3
+22:28:40.988 INFO  base.TestListeners -tableTextCourse1
+22:28:40.988 INFO  base.TestListeners -tableTextCourse2
+22:28:40.988 INFO  base.TestListeners -tableTextCourse3
+22:28:40.988 INFO  base.TestListeners -tableTextPrice1
+22:28:40.988 INFO  base.TestListeners -tableTextPrice2
+22:28:40.988 INFO  base.TestListeners -tableTextPrice3
+22:28:40.988 INFO  base.TestListeners -verifyTitle
+22:28:41.010 INFO  base.WebDriverFactory -OS Name from system property :: win
+22:28:41.010 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+22:28:49.361 INFO  base.CustomDriver -Clicked On :: Login Link
+22:28:51.926 INFO  base.CustomDriver -Send Keys on element :: Email Field with data :: asidcam@gmail.com
+22:28:52.012 INFO  base.CustomDriver -Send Keys on element :: Password Field with data :: 246//Asid
+22:28:52.085 INFO  base.CustomDriver -Clicked On :: Login Button
+22:28:55.279 INFO  base.CustomDriver -Clicked On :: Practice Link
+22:28:55.291 INFO  base.CheckPoint -Clearing Results Hash Map
+22:28:56.657 INFO  base.CustomDriver -Clicked On :: BMW
+22:28:56.673 INFO  base.CustomDriver -Element :: Checkbox BMW is selected
+22:28:56.675 INFO  base.TestListeners -onTestSuccess -> Test Method Name: CheckboxBMW
+22:28:56.681 INFO  base.CheckPoint -Clearing Results Hash Map
+22:28:56.740 INFO  base.CustomDriver -Clicked On :: Benz
+22:28:56.756 INFO  base.CustomDriver -Element :: Checkbox BENZ is selected
+22:28:56.756 INFO  base.TestListeners -onTestSuccess -> Test Method Name: CheckboxBenz
+22:28:56.756 INFO  base.CheckPoint -Clearing Results Hash Map
+22:28:56.807 INFO  base.CustomDriver -Clicked On :: Honda
+22:28:56.822 INFO  base.CustomDriver -Element :: Checkbox HONDA is selected
+22:28:56.822 INFO  base.TestListeners -onTestSuccess -> Test Method Name: CheckboxHonda
+22:28:56.823 INFO  base.CheckPoint -Clearing Results Hash Map
+22:28:56.939 INFO  base.CustomDriver -Send Keys on element :: Name field with data :: Kaiser N
+22:28:56.991 INFO  base.CustomDriver -Clicked On :: Alert Button
+22:28:56.998 INFO  base.CustomDriver -Alert accepted
+22:28:56.998 INFO  base.TestListeners -onTestSuccess -> Test Method Name: alert
+22:28:56.999 INFO  base.CheckPoint -Clearing Results Hash Map
+22:28:57.048 INFO  base.CustomDriver -Clicked On :: BENZ
+22:28:57.065 INFO  base.CustomDriver -Element :: Radio BENZ is selected
+22:28:57.065 INFO  base.TestListeners -onTestSuccess -> Test Method Name: clickRadioBtnBenz
+22:28:57.066 INFO  base.CheckPoint -Clearing Results Hash Map
+22:28:57.124 INFO  base.CustomDriver -Clicked On :: HONDA
+22:28:57.142 INFO  base.CustomDriver -Element :: Radio HONDA is selected
+22:28:57.143 INFO  base.TestListeners -onTestSuccess -> Test Method Name: clickRadioBtnHonda
+22:28:57.143 INFO  base.CheckPoint -Clearing Results Hash Map
+22:28:57.205 INFO  base.CustomDriver -Clicked On :: BMW
+22:28:57.220 INFO  base.CustomDriver -Element :: Radio BMW is selected
+22:28:57.220 INFO  base.TestListeners -onTestSuccess -> Test Method Name: clickRadioButtonBMW
+22:28:57.221 INFO  base.CheckPoint -Clearing Results Hash Map
+22:28:57.303 INFO  base.CustomDriver -Clicked On :: Hide
+22:28:57.340 INFO  base.CustomDriver -Element :: Text Box is NOT displayed
+22:28:57.340 INFO  base.TestListeners -onTestSuccess -> Test Method Name: hideTextBox
+22:28:57.341 INFO  base.CheckPoint -Clearing Results Hash Map
+22:28:57.812 INFO  utilities.Util -Actual Text From Web Application UI   --> : Top
+22:28:57.813 INFO  utilities.Util -Expected Text From Web Application UI --> : Top
+22:28:57.813 INFO  utilities.Util -### Verification Contains !!!
+22:28:57.813 INFO  base.TestListeners -onTestSuccess -> Test Method Name: mouseHover
+22:28:57.813 INFO  base.CheckPoint -Clearing Results Hash Map
+22:28:57.847 INFO  base.CustomDriver -Clicked On :: Apple
+22:28:57.858 INFO  base.CustomDriver -Element :: Multiple APPLE is selected
+22:28:57.859 INFO  base.TestListeners -onTestSuccess -> Test Method Name: multipleSelectionApple
+22:28:57.859 INFO  base.CheckPoint -Clearing Results Hash Map
+22:28:57.903 INFO  base.CustomDriver -Clicked On :: Orange
+22:28:57.920 INFO  base.CustomDriver -Element :: Multiple ORANGE is selected
+22:28:57.920 INFO  base.TestListeners -onTestSuccess -> Test Method Name: multipleSelectionOrange
+22:28:57.921 INFO  base.CheckPoint -Clearing Results Hash Map
+22:28:57.954 INFO  base.CustomDriver -Clicked On :: Peach
+22:28:57.965 INFO  base.CustomDriver -Element :: Multiple PEACH is selected
+22:28:57.966 INFO  base.TestListeners -onTestSuccess -> Test Method Name: multipleSelectionPeach
+22:28:57.966 INFO  base.CheckPoint -Clearing Results Hash Map
+22:28:58.070 INFO  base.CustomDriver -Clicked On :: Open Window
+22:28:58.070 INFO  base.TestListeners -onTestSuccess -> Test Method Name: openWindow
+22:28:58.071 INFO  base.CheckPoint -Clearing Results Hash Map
+22:28:58.107 INFO  base.CustomDriver -Clicked On :: BENZ
+22:28:58.123 INFO  base.CustomDriver -Element :: Dropdown BENZ is selected
+22:28:58.123 INFO  base.TestListeners -onTestSuccess -> Test Method Name: selectDropdownBenz
+22:28:58.124 INFO  base.CheckPoint -Clearing Results Hash Map
+22:28:58.156 INFO  base.CustomDriver -Clicked On :: BMW
+22:28:58.171 INFO  base.CustomDriver -Element :: Dropdown BMW is selected
+22:28:58.172 INFO  base.TestListeners -onTestSuccess -> Test Method Name: selectDropdownBmw
+22:28:58.173 INFO  base.CheckPoint -Clearing Results Hash Map
+22:28:58.205 INFO  base.CustomDriver -Clicked On :: Honda
+22:28:58.221 INFO  base.CustomDriver -Element :: Dropdown HONDA is selected
+22:28:58.221 INFO  base.TestListeners -onTestSuccess -> Test Method Name: selectDropdownHonda
+22:28:58.221 INFO  base.CheckPoint -Clearing Results Hash Map
+22:28:58.465 INFO  base.CustomDriver -Clicked On :: Show
+22:28:58.499 INFO  base.CustomDriver -Element :: Text Box is displayed
+22:28:58.499 INFO  base.TestListeners -onTestSuccess -> Test Method Name: showTextBox
+22:28:58.500 INFO  base.CheckPoint -Clearing Results Hash Map
+22:28:58.502 INFO  base.CustomDriver -Parent handle: CDwindow-A6B1D4B19B3CD46A40E237217F3EFFF7
+22:28:58.508 INFO  base.CustomDriver -[CDwindow-A6B1D4B19B3CD46A40E237217F3EFFF7, CDwindow-1B502F424B86716C9A4210A503F62876]
+22:28:58.508 INFO  base.CustomDriver -[CDwindow-A6B1D4B19B3CD46A40E237217F3EFFF7, CDwindow-1B502F424B86716C9A4210A503F62876]
+22:28:58.570 INFO  base.CustomDriver -Clicked On :: My Courses
+22:28:58.588 INFO  utilities.Util -Actual Text From Web Application UI   --> : My Courses
+22:28:58.588 INFO  utilities.Util -Expected Text From Web Application UI --> : My Courses
+22:28:58.588 INFO  utilities.Util -### Verification MATCHED !!!
+22:28:58.588 INFO  base.TestListeners -onTestSuccess -> Test Method Name: switchWindow
+22:28:58.589 INFO  base.CheckPoint -Clearing Results Hash Map
+22:28:58.617 INFO  utilities.Util -Actual Text From Web Application UI   --> : Let's Kode It
+22:28:58.618 INFO  utilities.Util -Expected Text From Web Application UI --> : Let's Kode It
+22:28:58.618 INFO  utilities.Util -### Verification Contains !!!
+22:28:58.618 INFO  base.TestListeners -onTestSuccess -> Test Method Name: tableTextAuth1
+22:28:58.619 INFO  base.CheckPoint -Clearing Results Hash Map
+22:28:58.646 INFO  utilities.Util -Actual Text From Web Application UI   --> : Let's Kode It
+22:28:58.646 INFO  utilities.Util -Expected Text From Web Application UI --> : Let's Kode It
+22:28:58.646 INFO  utilities.Util -### Verification Contains !!!
+22:28:58.646 INFO  base.TestListeners -onTestSuccess -> Test Method Name: tableTextAuth2
+22:28:58.647 INFO  base.CheckPoint -Clearing Results Hash Map
+22:28:58.675 INFO  utilities.Util -Actual Text From Web Application UI   --> : Let's Kode It
+22:28:58.675 INFO  utilities.Util -Expected Text From Web Application UI --> : Let's Kode It
+22:28:58.675 INFO  utilities.Util -### Verification Contains !!!
+22:28:58.675 INFO  base.TestListeners -onTestSuccess -> Test Method Name: tableTextAuth3
+22:28:58.676 INFO  base.CheckPoint -Clearing Results Hash Map
+22:28:58.704 INFO  utilities.Util -Actual Text From Web Application UI   --> : Selenium WebDriver With Java
+22:28:58.704 INFO  utilities.Util -Expected Text From Web Application UI --> : Selenium WebDriver With Java
+22:28:58.704 INFO  utilities.Util -### Verification Contains !!!
+22:28:58.704 INFO  base.TestListeners -onTestSuccess -> Test Method Name: tableTextCourse1
+22:28:58.704 INFO  base.CheckPoint -Clearing Results Hash Map
+22:28:58.730 INFO  utilities.Util -Actual Text From Web Application UI   --> : Python Programming Language
+22:28:58.731 INFO  utilities.Util -Expected Text From Web Application UI --> : Python Programming Language
+22:28:58.731 INFO  utilities.Util -### Verification Contains !!!
+22:28:58.731 INFO  base.TestListeners -onTestSuccess -> Test Method Name: tableTextCourse2
+22:28:58.731 INFO  base.CheckPoint -Clearing Results Hash Map
+22:28:58.760 INFO  utilities.Util -Actual Text From Web Application UI   --> : JavaScript Programming Language
+22:28:58.761 INFO  utilities.Util -Expected Text From Web Application UI --> : JavaScript Programming Language
+22:28:58.761 INFO  utilities.Util -### Verification Contains !!!
+22:28:58.761 INFO  base.TestListeners -onTestSuccess -> Test Method Name: tableTextCourse3
+22:28:58.761 INFO  base.CheckPoint -Clearing Results Hash Map
+22:28:58.788 INFO  utilities.Util -Actual Text From Web Application UI   --> : 35
+22:28:58.788 INFO  utilities.Util -Expected Text From Web Application UI --> : 35
+22:28:58.788 INFO  utilities.Util -### Verification Contains !!!
+22:28:58.788 INFO  base.TestListeners -onTestSuccess -> Test Method Name: tableTextPrice1
+22:28:58.789 INFO  base.CheckPoint -Clearing Results Hash Map
+22:28:58.817 INFO  utilities.Util -Actual Text From Web Application UI   --> : 30
+22:28:58.817 INFO  utilities.Util -Expected Text From Web Application UI --> : 30
+22:28:58.817 INFO  utilities.Util -### Verification Contains !!!
+22:28:58.817 INFO  base.TestListeners -onTestSuccess -> Test Method Name: tableTextPrice2
+22:28:58.818 INFO  base.CheckPoint -Clearing Results Hash Map
+22:28:58.846 INFO  utilities.Util -Actual Text From Web Application UI   --> : 25
+22:28:58.846 INFO  utilities.Util -Expected Text From Web Application UI --> : 25
+22:28:58.846 INFO  utilities.Util -### Verification Contains !!!
+22:28:58.846 INFO  base.TestListeners -onTestSuccess -> Test Method Name: tableTextPrice3
+22:28:58.847 INFO  base.CheckPoint -Clearing Results Hash Map
+22:28:58.868 INFO  utilities.Util -Actual Text From Web Application UI   --> : Practice
+22:28:58.868 INFO  utilities.Util -Expected Text From Web Application UI --> : Practice
+22:28:58.868 INFO  utilities.Util -### Verification Contains !!!
+22:28:58.869 INFO  base.TestListeners -onTestSuccess -> Test Method Name: verifyTitle
+22:28:58.873 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test

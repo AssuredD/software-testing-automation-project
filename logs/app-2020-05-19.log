@@ -1,0 +1,783 @@
+17:38:20.874 INFO  utilities.Util -Current Date and Time :: 05_19_2020 17_38_20
+17:38:20.885 INFO  utilities.ExtentManager -*********** Report Path ***********
+17:38:20.886 INFO  utilities.ExtentManager -C:\Users\cheap\workspace\letskodeit/reports/AutomationReport_05_19_2020 17_38_20.html
+17:38:20.886 INFO  utilities.ExtentManager -*********** Report Path ***********
+17:38:21.073 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+17:38:21.073 INFO  base.TestListeners -These methods will be executed in this <test> tag
+17:38:21.073 INFO  base.TestListeners -clickRadioBtnBenz
+17:38:21.073 INFO  base.TestListeners -clickRadioBtnHonda
+17:38:21.074 INFO  base.TestListeners -clickRadioButtonBMW
+17:38:21.074 INFO  base.TestListeners -multipleSelect
+17:38:21.074 INFO  base.TestListeners -selectDropdownBenz
+17:38:21.074 INFO  base.TestListeners -selectDropdownBmw
+17:38:21.074 INFO  base.TestListeners -selectDropdownHonda
+17:38:21.074 INFO  base.TestListeners -verifyTitle
+17:38:21.092 INFO  base.WebDriverFactory -OS Name from system property :: win
+17:38:21.093 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+17:38:31.901 INFO  base.CustomDriver -Clicked On :: Login Link
+17:38:35.062 INFO  base.CustomDriver -Send Keys on element :: Email Field with data :: asidcam@gmail.com
+17:38:35.146 INFO  base.CustomDriver -Send Keys on element :: Password Field with data :: 246//Asid
+17:38:39.874 INFO  base.CustomDriver -Clicked On :: Login Button
+17:38:39.953 INFO  base.CustomDriver -Clicked On :: Practice Link
+17:38:39.960 INFO  base.CheckPoint -Clearing Results Hash Map
+17:38:42.622 INFO  base.CustomDriver -Clicked On :: BENZ
+17:38:42.646 INFO  base.CustomDriver -Element :: Radio BENZ is selected
+17:38:42.649 INFO  base.TestListeners -onTestSuccess -> Test Method Name: clickRadioBtnBenz
+17:38:42.654 INFO  base.CheckPoint -Clearing Results Hash Map
+17:38:42.703 INFO  base.CustomDriver -Clicked On :: HONDA
+17:38:42.717 INFO  base.CustomDriver -Element :: Radio HONDA is selected
+17:38:42.717 INFO  base.TestListeners -onTestSuccess -> Test Method Name: clickRadioBtnHonda
+17:38:42.718 INFO  base.CheckPoint -Clearing Results Hash Map
+17:38:42.762 INFO  base.CustomDriver -Clicked On :: BMW
+17:38:42.778 INFO  base.CustomDriver -Element :: Radio BMW is selected
+17:38:42.778 INFO  base.TestListeners -onTestSuccess -> Test Method Name: clickRadioButtonBMW
+17:38:42.778 INFO  base.CheckPoint -Clearing Results Hash Map
+17:38:42.816 INFO  base.CustomDriver -Clicked On :: Multiple select example
+17:38:43.022 INFO  base.TestListeners -onTestSuccess -> Test Method Name: multipleSelect
+17:38:43.022 INFO  base.CheckPoint -Clearing Results Hash Map
+17:38:43.278 INFO  base.CustomDriver -Clicked On :: Select class Example
+17:38:43.308 INFO  base.CustomDriver -Clicked On :: BENZ
+17:38:43.324 INFO  base.CustomDriver -Element :: Dropdown BENZ is selected
+17:38:43.324 INFO  base.TestListeners -onTestSuccess -> Test Method Name: selectDropdownBenz
+17:38:43.324 INFO  base.CheckPoint -Clearing Results Hash Map
+17:38:43.375 INFO  base.CustomDriver -Clicked On :: Select class Example
+17:38:43.404 INFO  base.CustomDriver -Clicked On :: BMW
+17:38:43.418 INFO  base.CustomDriver -Element :: Dropdown BMW is selected
+17:38:43.418 INFO  base.TestListeners -onTestSuccess -> Test Method Name: selectDropdownBmw
+17:38:43.419 INFO  base.CheckPoint -Clearing Results Hash Map
+17:38:43.475 INFO  base.CustomDriver -Clicked On :: Select class Example
+17:38:43.508 INFO  base.CustomDriver -Clicked On :: Honda
+17:38:43.522 INFO  base.CustomDriver -Element :: Dropdown HONDA is selected
+17:38:43.522 INFO  base.TestListeners -onTestSuccess -> Test Method Name: selectDropdownHonda
+17:38:43.522 INFO  base.CheckPoint -Clearing Results Hash Map
+17:38:43.539 INFO  utilities.Util -Actual Text From Web Application UI   --> : Practice
+17:38:43.539 INFO  utilities.Util -Expected Text From Web Application UI --> : Practice
+17:38:43.539 INFO  utilities.Util -### Verification Contains !!!
+17:38:43.540 INFO  base.TestListeners -onTestSuccess -> Test Method Name: verifyTitle
+17:38:43.541 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test
+18:50:20.573 INFO  utilities.Util -Current Date and Time :: 05_19_2020 18_50_20
+18:50:20.577 INFO  utilities.ExtentManager -*********** Report Path ***********
+18:50:20.577 INFO  utilities.ExtentManager -C:\Users\cheap\workspace\letskodeit/reports/AutomationReport_05_19_2020 18_50_20.html
+18:50:20.577 INFO  utilities.ExtentManager -*********** Report Path ***********
+18:50:20.721 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+18:50:20.721 INFO  base.TestListeners -These methods will be executed in this <test> tag
+18:50:20.721 INFO  base.TestListeners -clickRadioBtnBenz
+18:50:20.721 INFO  base.TestListeners -clickRadioBtnHonda
+18:50:20.721 INFO  base.TestListeners -clickRadioButtonBMW
+18:50:20.721 INFO  base.TestListeners -multipleSelectionApple
+18:50:20.721 INFO  base.TestListeners -multipleSelectionOrange
+18:50:20.721 INFO  base.TestListeners -multipleSelectionPeach
+18:50:20.721 INFO  base.TestListeners -selectDropdownBenz
+18:50:20.721 INFO  base.TestListeners -selectDropdownBmw
+18:50:20.721 INFO  base.TestListeners -selectDropdownHonda
+18:50:20.721 INFO  base.TestListeners -verifyTitle
+18:50:20.740 INFO  base.WebDriverFactory -OS Name from system property :: win
+18:50:20.740 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+18:50:28.198 INFO  base.CustomDriver -Clicked On :: Login Link
+18:50:33.317 INFO  base.CustomDriver -Send Keys on element :: Email Field with data :: asidcam@gmail.com
+18:50:33.400 INFO  base.CustomDriver -Send Keys on element :: Password Field with data :: 246//Asid
+18:50:36.226 INFO  base.CustomDriver -Clicked On :: Login Button
+18:50:36.343 INFO  base.CustomDriver -Clicked On :: Practice Link
+18:50:36.352 INFO  base.CheckPoint -Clearing Results Hash Map
+18:50:37.469 INFO  base.CustomDriver -Clicked On :: BENZ
+18:50:37.486 INFO  base.CustomDriver -Element :: Radio BENZ is selected
+18:50:37.488 INFO  base.TestListeners -onTestSuccess -> Test Method Name: clickRadioBtnBenz
+18:50:37.493 INFO  base.CheckPoint -Clearing Results Hash Map
+18:50:37.543 INFO  base.CustomDriver -Clicked On :: HONDA
+18:50:37.559 INFO  base.CustomDriver -Element :: Radio HONDA is selected
+18:50:37.559 INFO  base.TestListeners -onTestSuccess -> Test Method Name: clickRadioBtnHonda
+18:50:37.559 INFO  base.CheckPoint -Clearing Results Hash Map
+18:50:37.607 INFO  base.CustomDriver -Clicked On :: BMW
+18:50:37.622 INFO  base.CustomDriver -Element :: Radio BMW is selected
+18:50:37.622 INFO  base.TestListeners -onTestSuccess -> Test Method Name: clickRadioButtonBMW
+18:50:37.623 INFO  base.CheckPoint -Clearing Results Hash Map
+18:50:37.674 INFO  base.CustomDriver -Clicked On :: Multiple select example
+18:50:37.710 INFO  base.CustomDriver -Clicked On :: Apple
+18:50:37.724 INFO  base.CustomDriver -Element :: Multiple APPLE is selected
+18:50:37.724 INFO  base.TestListeners -onTestSuccess -> Test Method Name: multipleSelectionApple
+18:50:37.725 INFO  base.CheckPoint -Clearing Results Hash Map
+18:50:37.756 INFO  base.CustomDriver -Clicked On :: Multiple select example
+18:50:37.790 INFO  base.CustomDriver -Clicked On :: Orange
+18:50:37.803 INFO  base.CustomDriver -Element :: Multiple ORANGE is already selected
+18:50:37.804 INFO  base.TestListeners -onTestFailure -> Test Method Name: multipleSelectionOrange
+18:50:37.805 INFO  base.WebDriverFactory -OS Name from system property :: win
+18:50:37.805 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+18:50:37.805 INFO  utilities.Util -Current Date and Time :: 05_19_2020 18_50_37
+18:50:38.408 INFO  base.CustomDriver -Screen Shot Was Stored at: C:\Users\cheap\workspace\letskodeit/screenshots/chrome_multipleSelectionOrange_05_19_2020 18_50_37.png
+18:50:38.414 INFO  base.CheckPoint -Clearing Results Hash Map
+18:50:38.442 INFO  base.CustomDriver -Clicked On :: Multiple select example
+18:50:38.474 INFO  base.CustomDriver -Clicked On :: Peach
+18:50:38.487 INFO  base.CustomDriver -Element :: Multiple PEACH is selected
+18:50:38.487 INFO  base.TestListeners -onTestSuccess -> Test Method Name: multipleSelectionPeach
+18:50:38.488 INFO  base.CheckPoint -Clearing Results Hash Map
+18:50:38.539 INFO  base.CustomDriver -Clicked On :: Select class Example
+18:50:38.570 INFO  base.CustomDriver -Clicked On :: BENZ
+18:50:38.584 INFO  base.CustomDriver -Element :: Dropdown BENZ is selected
+18:50:38.585 INFO  base.TestListeners -onTestSuccess -> Test Method Name: selectDropdownBenz
+18:50:38.585 INFO  base.CheckPoint -Clearing Results Hash Map
+18:50:38.831 INFO  base.CustomDriver -Clicked On :: Select class Example
+18:50:38.860 INFO  base.CustomDriver -Clicked On :: BMW
+18:50:38.873 INFO  base.CustomDriver -Element :: Dropdown BMW is selected
+18:50:38.873 INFO  base.TestListeners -onTestSuccess -> Test Method Name: selectDropdownBmw
+18:50:38.874 INFO  base.CheckPoint -Clearing Results Hash Map
+18:50:38.909 INFO  base.CustomDriver -Clicked On :: Select class Example
+18:50:38.939 INFO  base.CustomDriver -Clicked On :: Honda
+18:50:38.954 INFO  base.CustomDriver -Element :: Dropdown HONDA is selected
+18:50:38.954 INFO  base.TestListeners -onTestSuccess -> Test Method Name: selectDropdownHonda
+18:50:38.955 INFO  base.CheckPoint -Clearing Results Hash Map
+18:50:38.974 INFO  utilities.Util -Actual Text From Web Application UI   --> : Practice
+18:50:38.974 INFO  utilities.Util -Expected Text From Web Application UI --> : Practice
+18:50:38.974 INFO  utilities.Util -### Verification Contains !!!
+18:50:38.974 INFO  base.TestListeners -onTestSuccess -> Test Method Name: verifyTitle
+18:50:38.976 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test
+18:57:56.179 INFO  utilities.Util -Current Date and Time :: 05_19_2020 18_57_56
+18:57:56.184 INFO  utilities.ExtentManager -*********** Report Path ***********
+18:57:56.184 INFO  utilities.ExtentManager -C:\Users\cheap\workspace\letskodeit/reports/AutomationReport_05_19_2020 18_57_56.html
+18:57:56.184 INFO  utilities.ExtentManager -*********** Report Path ***********
+18:57:56.317 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+18:57:56.317 INFO  base.TestListeners -These methods will be executed in this <test> tag
+18:57:56.318 INFO  base.TestListeners -clickRadioBtnBenz
+18:57:56.318 INFO  base.TestListeners -clickRadioBtnHonda
+18:57:56.318 INFO  base.TestListeners -clickRadioButtonBMW
+18:57:56.318 INFO  base.TestListeners -multipleSelectionApple
+18:57:56.318 INFO  base.TestListeners -multipleSelectionOrange
+18:57:56.318 INFO  base.TestListeners -multipleSelectionPeach
+18:57:56.318 INFO  base.TestListeners -selectDropdownBenz
+18:57:56.318 INFO  base.TestListeners -selectDropdownBmw
+18:57:56.318 INFO  base.TestListeners -selectDropdownHonda
+18:57:56.318 INFO  base.TestListeners -verifyTitle
+18:57:56.335 INFO  base.WebDriverFactory -OS Name from system property :: win
+18:57:56.335 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+18:58:05.344 INFO  base.CustomDriver -Clicked On :: Login Link
+18:58:08.181 INFO  base.CustomDriver -Send Keys on element :: Email Field with data :: asidcam@gmail.com
+18:58:08.262 INFO  base.CustomDriver -Send Keys on element :: Password Field with data :: 246//Asid
+18:58:09.553 INFO  base.CustomDriver -Clicked On :: Login Button
+18:58:34.879 INFO  utilities.Util -Current Date and Time :: 05_19_2020 18_58_34
+18:58:34.884 INFO  utilities.ExtentManager -*********** Report Path ***********
+18:58:34.884 INFO  utilities.ExtentManager -C:\Users\cheap\workspace\letskodeit/reports/AutomationReport_05_19_2020 18_58_34.html
+18:58:34.884 INFO  utilities.ExtentManager -*********** Report Path ***********
+18:58:35.022 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+18:58:35.022 INFO  base.TestListeners -These methods will be executed in this <test> tag
+18:58:35.023 INFO  base.TestListeners -clickRadioBtnBenz
+18:58:35.023 INFO  base.TestListeners -clickRadioBtnHonda
+18:58:35.023 INFO  base.TestListeners -clickRadioButtonBMW
+18:58:35.023 INFO  base.TestListeners -multipleSelectionApple
+18:58:35.023 INFO  base.TestListeners -multipleSelectionOrange
+18:58:35.023 INFO  base.TestListeners -multipleSelectionPeach
+18:58:35.023 INFO  base.TestListeners -selectDropdownBenz
+18:58:35.023 INFO  base.TestListeners -selectDropdownBmw
+18:58:35.023 INFO  base.TestListeners -selectDropdownHonda
+18:58:35.023 INFO  base.TestListeners -verifyTitle
+18:58:35.041 INFO  base.WebDriverFactory -OS Name from system property :: win
+18:58:35.041 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+18:58:44.271 INFO  base.CustomDriver -Clicked On :: Login Link
+18:58:46.943 INFO  base.CustomDriver -Send Keys on element :: Email Field with data :: asidcam@gmail.com
+18:58:47.026 INFO  base.CustomDriver -Send Keys on element :: Password Field with data :: 246//Asid
+18:58:50.687 INFO  base.CustomDriver -Clicked On :: Login Button
+18:58:50.764 INFO  base.CustomDriver -Clicked On :: Practice Link
+18:58:50.771 INFO  base.CheckPoint -Clearing Results Hash Map
+18:58:52.438 INFO  base.CustomDriver -Clicked On :: BENZ
+18:58:52.454 INFO  base.CustomDriver -Element :: Radio BENZ is selected
+18:58:52.456 INFO  base.TestListeners -onTestSuccess -> Test Method Name: clickRadioBtnBenz
+18:58:52.461 INFO  base.CheckPoint -Clearing Results Hash Map
+18:58:52.525 INFO  base.CustomDriver -Clicked On :: HONDA
+18:58:52.540 INFO  base.CustomDriver -Element :: Radio HONDA is selected
+18:58:52.540 INFO  base.TestListeners -onTestSuccess -> Test Method Name: clickRadioBtnHonda
+18:58:52.541 INFO  base.CheckPoint -Clearing Results Hash Map
+18:58:52.588 INFO  base.CustomDriver -Clicked On :: BMW
+18:58:52.603 INFO  base.CustomDriver -Element :: Radio BMW is selected
+18:58:52.604 INFO  base.TestListeners -onTestSuccess -> Test Method Name: clickRadioButtonBMW
+18:58:52.604 INFO  base.CheckPoint -Clearing Results Hash Map
+18:58:52.655 INFO  base.CustomDriver -Clicked On :: Multiple select example
+18:58:52.691 INFO  base.CustomDriver -Clicked On :: Apple
+18:58:52.704 INFO  base.CustomDriver -Element :: Multiple APPLE is selected
+18:58:52.705 INFO  base.TestListeners -onTestSuccess -> Test Method Name: multipleSelectionApple
+18:58:52.705 INFO  base.CheckPoint -Clearing Results Hash Map
+18:58:52.737 INFO  base.CustomDriver -Clicked On :: Multiple select example
+18:58:52.772 INFO  base.CustomDriver -Clicked On :: Orange
+18:58:52.791 INFO  base.CustomDriver -Element :: Multiple ORANGE is already selected
+18:58:52.792 INFO  base.TestListeners -onTestFailure -> Test Method Name: multipleSelectionOrange
+18:58:52.792 INFO  base.WebDriverFactory -OS Name from system property :: win
+18:58:52.792 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+18:58:52.793 INFO  utilities.Util -Current Date and Time :: 05_19_2020 18_58_52
+18:58:53.324 INFO  base.CustomDriver -Screen Shot Was Stored at: C:\Users\cheap\workspace\letskodeit/screenshots/chrome_multipleSelectionOrange_05_19_2020 18_58_52.png
+18:58:53.329 INFO  base.CheckPoint -Clearing Results Hash Map
+18:58:53.356 INFO  base.CustomDriver -Clicked On :: Multiple select example
+18:58:53.396 INFO  base.CustomDriver -Clicked On :: Peach
+18:58:53.537 INFO  base.CustomDriver -Element :: Multiple PEACH is selected
+18:58:53.538 INFO  base.TestListeners -onTestSuccess -> Test Method Name: multipleSelectionPeach
+18:58:53.538 INFO  base.CheckPoint -Clearing Results Hash Map
+18:58:53.695 INFO  base.CustomDriver -Clicked On :: Select class Example
+18:58:53.727 INFO  base.CustomDriver -Clicked On :: BENZ
+18:58:53.742 INFO  base.CustomDriver -Element :: Dropdown BENZ is selected
+18:58:53.742 INFO  base.TestListeners -onTestSuccess -> Test Method Name: selectDropdownBenz
+18:58:53.743 INFO  base.CheckPoint -Clearing Results Hash Map
+18:58:53.805 INFO  base.CustomDriver -Clicked On :: Select class Example
+18:58:53.846 INFO  base.CustomDriver -Clicked On :: BMW
+18:58:53.860 INFO  base.CustomDriver -Element :: Dropdown BMW is selected
+18:58:53.860 INFO  base.TestListeners -onTestSuccess -> Test Method Name: selectDropdownBmw
+18:58:53.861 INFO  base.CheckPoint -Clearing Results Hash Map
+18:58:53.896 INFO  base.CustomDriver -Clicked On :: Select class Example
+18:58:53.926 INFO  base.CustomDriver -Clicked On :: Honda
+18:58:53.940 INFO  base.CustomDriver -Element :: Dropdown HONDA is selected
+18:58:53.940 INFO  base.TestListeners -onTestSuccess -> Test Method Name: selectDropdownHonda
+18:58:53.941 INFO  base.CheckPoint -Clearing Results Hash Map
+18:58:53.958 INFO  utilities.Util -Actual Text From Web Application UI   --> : Practice
+18:58:53.958 INFO  utilities.Util -Expected Text From Web Application UI --> : Practice
+18:58:53.958 INFO  utilities.Util -### Verification Contains !!!
+18:58:53.959 INFO  base.TestListeners -onTestSuccess -> Test Method Name: verifyTitle
+18:58:53.960 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test
+19:04:34.605 INFO  utilities.Util -Current Date and Time :: 05_19_2020 19_04_34
+19:04:34.609 INFO  utilities.ExtentManager -*********** Report Path ***********
+19:04:34.609 INFO  utilities.ExtentManager -C:\Users\cheap\workspace\letskodeit/reports/AutomationReport_05_19_2020 19_04_34.html
+19:04:34.610 INFO  utilities.ExtentManager -*********** Report Path ***********
+19:04:34.752 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+19:04:34.752 INFO  base.TestListeners -These methods will be executed in this <test> tag
+19:04:34.752 INFO  base.TestListeners -clickRadioBtnBenz
+19:04:34.752 INFO  base.TestListeners -clickRadioBtnHonda
+19:04:34.753 INFO  base.TestListeners -clickRadioButtonBMW
+19:04:34.753 INFO  base.TestListeners -multipleSelectionApple
+19:04:34.753 INFO  base.TestListeners -multipleSelectionOrange
+19:04:34.753 INFO  base.TestListeners -multipleSelectionPeach
+19:04:34.753 INFO  base.TestListeners -selectDropdownBenz
+19:04:34.753 INFO  base.TestListeners -selectDropdownBmw
+19:04:34.753 INFO  base.TestListeners -selectDropdownHonda
+19:04:34.753 INFO  base.TestListeners -verifyTitle
+19:04:34.775 INFO  base.WebDriverFactory -OS Name from system property :: win
+19:04:34.775 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+19:04:43.325 INFO  base.CustomDriver -Clicked On :: Login Link
+19:04:45.890 INFO  base.CustomDriver -Send Keys on element :: Email Field with data :: asidcam@gmail.com
+19:04:45.970 INFO  base.CustomDriver -Send Keys on element :: Password Field with data :: 246//Asid
+19:04:49.699 INFO  base.CustomDriver -Clicked On :: Login Button
+19:04:49.847 INFO  base.CustomDriver -Clicked On :: Practice Link
+19:04:49.855 INFO  base.CheckPoint -Clearing Results Hash Map
+19:04:51.493 INFO  base.CustomDriver -Clicked On :: BENZ
+19:04:51.509 INFO  base.CustomDriver -Element :: Radio BENZ is selected
+19:04:51.512 INFO  base.TestListeners -onTestSuccess -> Test Method Name: clickRadioBtnBenz
+19:04:51.517 INFO  base.CheckPoint -Clearing Results Hash Map
+19:04:51.573 INFO  base.CustomDriver -Clicked On :: HONDA
+19:04:51.589 INFO  base.CustomDriver -Element :: Radio HONDA is selected
+19:04:51.589 INFO  base.TestListeners -onTestSuccess -> Test Method Name: clickRadioBtnHonda
+19:04:51.589 INFO  base.CheckPoint -Clearing Results Hash Map
+19:04:51.635 INFO  base.CustomDriver -Clicked On :: BMW
+19:04:51.650 INFO  base.CustomDriver -Element :: Radio BMW is selected
+19:04:51.650 INFO  base.TestListeners -onTestSuccess -> Test Method Name: clickRadioButtonBMW
+19:04:51.651 INFO  base.CheckPoint -Clearing Results Hash Map
+19:04:51.703 INFO  base.CustomDriver -Clicked On :: Multiple select example
+19:04:51.738 INFO  base.CustomDriver -Clicked On :: Apple
+19:04:51.751 INFO  base.CustomDriver -Element :: Multiple APPLE is selected
+19:04:51.751 INFO  base.TestListeners -onTestSuccess -> Test Method Name: multipleSelectionApple
+19:04:51.752 INFO  base.CheckPoint -Clearing Results Hash Map
+19:04:51.785 INFO  base.CustomDriver -Clicked On :: Multiple select example
+19:04:51.820 INFO  base.CustomDriver -Clicked On :: Orange
+19:04:51.837 INFO  base.CustomDriver -Element :: Multiple ORANGE is already selected
+19:04:51.837 INFO  base.TestListeners -onTestSuccess -> Test Method Name: multipleSelectionOrange
+19:04:51.838 INFO  base.CheckPoint -Clearing Results Hash Map
+19:04:51.883 INFO  base.CustomDriver -Clicked On :: Multiple select example
+19:04:51.918 INFO  base.CustomDriver -Clicked On :: Peach
+19:04:51.931 INFO  base.CustomDriver -Element :: Multiple PEACH is selected
+19:04:51.931 INFO  base.TestListeners -onTestSuccess -> Test Method Name: multipleSelectionPeach
+19:04:51.931 INFO  base.CheckPoint -Clearing Results Hash Map
+19:04:51.983 INFO  base.CustomDriver -Clicked On :: Select class Example
+19:04:52.013 INFO  base.CustomDriver -Clicked On :: BENZ
+19:04:52.028 INFO  base.CustomDriver -Element :: Dropdown BENZ is selected
+19:04:52.028 INFO  base.TestListeners -onTestSuccess -> Test Method Name: selectDropdownBenz
+19:04:52.029 INFO  base.CheckPoint -Clearing Results Hash Map
+19:04:52.086 INFO  base.CustomDriver -Clicked On :: Select class Example
+19:04:52.114 INFO  base.CustomDriver -Clicked On :: BMW
+19:04:52.128 INFO  base.CustomDriver -Element :: Dropdown BMW is selected
+19:04:52.128 INFO  base.TestListeners -onTestSuccess -> Test Method Name: selectDropdownBmw
+19:04:52.128 INFO  base.CheckPoint -Clearing Results Hash Map
+19:04:52.194 INFO  base.CustomDriver -Clicked On :: Select class Example
+19:04:52.223 INFO  base.CustomDriver -Clicked On :: Honda
+19:04:52.237 INFO  base.CustomDriver -Element :: Dropdown HONDA is selected
+19:04:52.237 INFO  base.TestListeners -onTestSuccess -> Test Method Name: selectDropdownHonda
+19:04:52.238 INFO  base.CheckPoint -Clearing Results Hash Map
+19:04:52.255 INFO  utilities.Util -Actual Text From Web Application UI   --> : Practice
+19:04:52.255 INFO  utilities.Util -Expected Text From Web Application UI --> : Practice
+19:04:52.255 INFO  utilities.Util -### Verification Contains !!!
+19:04:52.255 INFO  base.TestListeners -onTestSuccess -> Test Method Name: verifyTitle
+19:04:52.257 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test
+19:06:51.201 INFO  utilities.Util -Current Date and Time :: 05_19_2020 19_06_51
+19:06:51.205 INFO  utilities.ExtentManager -*********** Report Path ***********
+19:06:51.205 INFO  utilities.ExtentManager -C:\Users\cheap\workspace\letskodeit/reports/AutomationReport_05_19_2020 19_06_51.html
+19:06:51.205 INFO  utilities.ExtentManager -*********** Report Path ***********
+19:06:51.338 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+19:06:51.338 INFO  base.TestListeners -These methods will be executed in this <test> tag
+19:06:51.338 INFO  base.TestListeners -clickRadioBtnBenz
+19:06:51.338 INFO  base.TestListeners -clickRadioBtnHonda
+19:06:51.338 INFO  base.TestListeners -clickRadioButtonBMW
+19:06:51.338 INFO  base.TestListeners -multipleSelectionApple
+19:06:51.338 INFO  base.TestListeners -multipleSelectionOrange
+19:06:51.338 INFO  base.TestListeners -multipleSelectionPeach
+19:06:51.338 INFO  base.TestListeners -selectDropdownBenz
+19:06:51.338 INFO  base.TestListeners -selectDropdownBmw
+19:06:51.339 INFO  base.TestListeners -selectDropdownHonda
+19:06:51.339 INFO  base.TestListeners -verifyTitle
+19:06:51.358 INFO  base.WebDriverFactory -OS Name from system property :: win
+19:06:51.358 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+19:06:59.981 INFO  base.CustomDriver -Clicked On :: Login Link
+19:07:03.620 INFO  base.CustomDriver -Send Keys on element :: Email Field with data :: asidcam@gmail.com
+19:07:03.705 INFO  base.CustomDriver -Send Keys on element :: Password Field with data :: 246//Asid
+19:07:07.306 INFO  base.CustomDriver -Clicked On :: Login Button
+19:07:07.394 INFO  base.CustomDriver -Clicked On :: Practice Link
+19:07:07.401 INFO  base.CheckPoint -Clearing Results Hash Map
+19:07:08.138 INFO  base.CustomDriver -Clicked On :: BENZ
+19:07:08.153 INFO  base.CustomDriver -Element :: Radio BENZ is selected
+19:07:08.156 INFO  base.TestListeners -onTestSuccess -> Test Method Name: clickRadioBtnBenz
+19:07:08.161 INFO  base.CheckPoint -Clearing Results Hash Map
+19:07:08.223 INFO  base.CustomDriver -Clicked On :: HONDA
+19:07:08.238 INFO  base.CustomDriver -Element :: Radio HONDA is selected
+19:07:08.238 INFO  base.TestListeners -onTestSuccess -> Test Method Name: clickRadioBtnHonda
+19:07:08.239 INFO  base.CheckPoint -Clearing Results Hash Map
+19:07:08.285 INFO  base.CustomDriver -Clicked On :: BMW
+19:07:08.301 INFO  base.CustomDriver -Element :: Radio BMW is selected
+19:07:08.302 INFO  base.TestListeners -onTestSuccess -> Test Method Name: clickRadioButtonBMW
+19:07:08.302 INFO  base.CheckPoint -Clearing Results Hash Map
+19:07:08.338 INFO  base.CustomDriver -Clicked On :: Apple
+19:07:08.353 INFO  base.CustomDriver -Element :: Multiple APPLE is selected
+19:07:08.353 INFO  base.TestListeners -onTestSuccess -> Test Method Name: multipleSelectionApple
+19:07:08.354 INFO  base.CheckPoint -Clearing Results Hash Map
+19:07:08.388 INFO  base.CustomDriver -Clicked On :: Orange
+19:07:08.401 INFO  base.CustomDriver -Element :: Multiple ORANGE is selected
+19:07:08.406 INFO  base.TestListeners -onTestFailure -> Test Method Name: multipleSelectionOrange
+19:07:08.406 INFO  base.WebDriverFactory -OS Name from system property :: win
+19:07:08.406 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+19:07:08.406 INFO  utilities.Util -Current Date and Time :: 05_19_2020 19_07_08
+19:07:09.007 INFO  base.CustomDriver -Screen Shot Was Stored at: C:\Users\cheap\workspace\letskodeit/screenshots/chrome_multipleSelectionOrange_05_19_2020 19_07_08.png
+19:07:09.010 INFO  base.CheckPoint -Clearing Results Hash Map
+19:07:09.247 INFO  base.CustomDriver -Clicked On :: Peach
+19:07:09.260 INFO  base.CustomDriver -Element :: Multiple PEACH is selected
+19:07:09.260 INFO  base.TestListeners -onTestSuccess -> Test Method Name: multipleSelectionPeach
+19:07:09.261 INFO  base.CheckPoint -Clearing Results Hash Map
+19:07:09.314 INFO  base.CustomDriver -Clicked On :: Select class Example
+19:07:09.343 INFO  base.CustomDriver -Clicked On :: BENZ
+19:07:09.358 INFO  base.CustomDriver -Element :: Dropdown BENZ is selected
+19:07:09.358 INFO  base.TestListeners -onTestSuccess -> Test Method Name: selectDropdownBenz
+19:07:09.358 INFO  base.CheckPoint -Clearing Results Hash Map
+19:07:09.404 INFO  base.CustomDriver -Clicked On :: Select class Example
+19:07:09.435 INFO  base.CustomDriver -Clicked On :: BMW
+19:07:09.454 INFO  base.CustomDriver -Element :: Dropdown BMW is selected
+19:07:09.455 INFO  base.TestListeners -onTestSuccess -> Test Method Name: selectDropdownBmw
+19:07:09.455 INFO  base.CheckPoint -Clearing Results Hash Map
+19:07:09.510 INFO  base.CustomDriver -Clicked On :: Select class Example
+19:07:09.539 INFO  base.CustomDriver -Clicked On :: Honda
+19:07:09.553 INFO  base.CustomDriver -Element :: Dropdown HONDA is selected
+19:07:09.553 INFO  base.TestListeners -onTestSuccess -> Test Method Name: selectDropdownHonda
+19:07:09.554 INFO  base.CheckPoint -Clearing Results Hash Map
+19:07:09.572 INFO  utilities.Util -Actual Text From Web Application UI   --> : Practice
+19:07:09.572 INFO  utilities.Util -Expected Text From Web Application UI --> : Practice
+19:07:09.572 INFO  utilities.Util -### Verification Contains !!!
+19:07:09.572 INFO  base.TestListeners -onTestSuccess -> Test Method Name: verifyTitle
+19:07:09.574 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test
+19:08:21.141 INFO  utilities.Util -Current Date and Time :: 05_19_2020 19_08_21
+19:08:21.146 INFO  utilities.ExtentManager -*********** Report Path ***********
+19:08:21.146 INFO  utilities.ExtentManager -C:\Users\cheap\workspace\letskodeit/reports/AutomationReport_05_19_2020 19_08_21.html
+19:08:21.146 INFO  utilities.ExtentManager -*********** Report Path ***********
+19:08:21.292 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+19:08:21.292 INFO  base.TestListeners -These methods will be executed in this <test> tag
+19:08:21.292 INFO  base.TestListeners -clickRadioBtnBenz
+19:08:21.292 INFO  base.TestListeners -clickRadioBtnHonda
+19:08:21.292 INFO  base.TestListeners -clickRadioButtonBMW
+19:08:21.292 INFO  base.TestListeners -multipleSelectionApple
+19:08:21.292 INFO  base.TestListeners -multipleSelectionOrange
+19:08:21.292 INFO  base.TestListeners -multipleSelectionPeach
+19:08:21.292 INFO  base.TestListeners -selectDropdownBenz
+19:08:21.292 INFO  base.TestListeners -selectDropdownBmw
+19:08:21.292 INFO  base.TestListeners -selectDropdownHonda
+19:08:21.293 INFO  base.TestListeners -verifyTitle
+19:08:21.310 INFO  base.WebDriverFactory -OS Name from system property :: win
+19:08:21.310 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+19:08:30.277 INFO  base.CustomDriver -Clicked On :: Login Link
+19:08:33.893 INFO  base.CustomDriver -Send Keys on element :: Email Field with data :: asidcam@gmail.com
+19:08:33.976 INFO  base.CustomDriver -Send Keys on element :: Password Field with data :: 246//Asid
+19:08:37.403 INFO  base.CustomDriver -Clicked On :: Login Button
+19:08:37.511 INFO  base.CustomDriver -Clicked On :: Practice Link
+19:08:37.517 INFO  base.CheckPoint -Clearing Results Hash Map
+19:08:38.515 INFO  base.CustomDriver -Clicked On :: BENZ
+19:08:38.530 INFO  base.CustomDriver -Element :: Radio BENZ is selected
+19:08:38.533 INFO  base.TestListeners -onTestSuccess -> Test Method Name: clickRadioBtnBenz
+19:08:38.538 INFO  base.CheckPoint -Clearing Results Hash Map
+19:08:38.588 INFO  base.CustomDriver -Clicked On :: HONDA
+19:08:38.604 INFO  base.CustomDriver -Element :: Radio HONDA is selected
+19:08:38.604 INFO  base.TestListeners -onTestSuccess -> Test Method Name: clickRadioBtnHonda
+19:08:38.604 INFO  base.CheckPoint -Clearing Results Hash Map
+19:08:38.652 INFO  base.CustomDriver -Clicked On :: BMW
+19:08:38.667 INFO  base.CustomDriver -Element :: Radio BMW is selected
+19:08:38.667 INFO  base.TestListeners -onTestSuccess -> Test Method Name: clickRadioButtonBMW
+19:08:38.667 INFO  base.CheckPoint -Clearing Results Hash Map
+19:08:38.702 INFO  base.CustomDriver -Clicked On :: Apple
+19:08:38.716 INFO  base.CustomDriver -Element :: Multiple APPLE is selected
+19:08:38.716 INFO  base.TestListeners -onTestSuccess -> Test Method Name: multipleSelectionApple
+19:08:38.717 INFO  base.CheckPoint -Clearing Results Hash Map
+19:08:38.752 INFO  base.CustomDriver -Clicked On :: Orange
+19:08:38.766 INFO  base.CustomDriver -Element :: Multiple ORANGE is selected
+19:08:38.766 INFO  base.TestListeners -onTestSuccess -> Test Method Name: multipleSelectionOrange
+19:08:38.767 INFO  base.CheckPoint -Clearing Results Hash Map
+19:08:38.805 INFO  base.CustomDriver -Clicked On :: Peach
+19:08:38.820 INFO  base.CustomDriver -Element :: Multiple PEACH is selected
+19:08:38.821 INFO  base.TestListeners -onTestSuccess -> Test Method Name: multipleSelectionPeach
+19:08:38.821 INFO  base.CheckPoint -Clearing Results Hash Map
+19:08:38.880 INFO  base.CustomDriver -Clicked On :: Select class Example
+19:08:38.910 INFO  base.CustomDriver -Clicked On :: BENZ
+19:08:38.925 INFO  base.CustomDriver -Element :: Dropdown BENZ is selected
+19:08:38.925 INFO  base.TestListeners -onTestSuccess -> Test Method Name: selectDropdownBenz
+19:08:38.926 INFO  base.CheckPoint -Clearing Results Hash Map
+19:08:38.984 INFO  base.CustomDriver -Clicked On :: Select class Example
+19:08:39.013 INFO  base.CustomDriver -Clicked On :: BMW
+19:08:39.027 INFO  base.CustomDriver -Element :: Dropdown BMW is selected
+19:08:39.028 INFO  base.TestListeners -onTestSuccess -> Test Method Name: selectDropdownBmw
+19:08:39.028 INFO  base.CheckPoint -Clearing Results Hash Map
+19:08:39.075 INFO  base.CustomDriver -Clicked On :: Select class Example
+19:08:39.106 INFO  base.CustomDriver -Clicked On :: Honda
+19:08:39.120 INFO  base.CustomDriver -Element :: Dropdown HONDA is selected
+19:08:39.120 INFO  base.TestListeners -onTestSuccess -> Test Method Name: selectDropdownHonda
+19:08:39.121 INFO  base.CheckPoint -Clearing Results Hash Map
+19:08:39.139 INFO  utilities.Util -Actual Text From Web Application UI   --> : Practice
+19:08:39.139 INFO  utilities.Util -Expected Text From Web Application UI --> : Practice
+19:08:39.139 INFO  utilities.Util -### Verification Contains !!!
+19:08:39.139 INFO  base.TestListeners -onTestSuccess -> Test Method Name: verifyTitle
+19:08:39.141 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test
+19:11:24.651 INFO  utilities.Util -Current Date and Time :: 05_19_2020 19_11_24
+19:11:24.655 INFO  utilities.ExtentManager -*********** Report Path ***********
+19:11:24.655 INFO  utilities.ExtentManager -C:\Users\cheap\workspace\letskodeit/reports/AutomationReport_05_19_2020 19_11_24.html
+19:11:24.655 INFO  utilities.ExtentManager -*********** Report Path ***********
+19:11:24.803 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+19:11:24.803 INFO  base.TestListeners -These methods will be executed in this <test> tag
+19:11:24.803 INFO  base.TestListeners -clickRadioBtnBenz
+19:11:24.803 INFO  base.TestListeners -clickRadioBtnHonda
+19:11:24.803 INFO  base.TestListeners -clickRadioButtonBMW
+19:11:24.803 INFO  base.TestListeners -multipleSelectionApple
+19:11:24.803 INFO  base.TestListeners -multipleSelectionOrange
+19:11:24.803 INFO  base.TestListeners -multipleSelectionPeach
+19:11:24.803 INFO  base.TestListeners -selectDropdownBenz
+19:11:24.803 INFO  base.TestListeners -selectDropdownBmw
+19:11:24.803 INFO  base.TestListeners -selectDropdownHonda
+19:11:24.803 INFO  base.TestListeners -verifyTitle
+19:11:24.822 INFO  base.WebDriverFactory -OS Name from system property :: win
+19:11:24.822 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+19:11:32.035 INFO  base.CustomDriver -Clicked On :: Login Link
+19:11:34.699 INFO  base.CustomDriver -Send Keys on element :: Email Field with data :: asidcam@gmail.com
+19:11:34.812 INFO  base.CustomDriver -Send Keys on element :: Password Field with data :: 246//Asid
+19:11:38.462 INFO  base.CustomDriver -Clicked On :: Login Button
+19:11:38.582 INFO  base.CustomDriver -Clicked On :: Practice Link
+19:11:38.588 INFO  base.CheckPoint -Clearing Results Hash Map
+19:11:39.952 INFO  base.CustomDriver -Clicked On :: BENZ
+19:11:39.968 INFO  base.CustomDriver -Element :: Radio BENZ is selected
+19:11:39.970 INFO  base.TestListeners -onTestSuccess -> Test Method Name: clickRadioBtnBenz
+19:11:39.975 INFO  base.CheckPoint -Clearing Results Hash Map
+19:11:40.038 INFO  base.CustomDriver -Clicked On :: HONDA
+19:11:40.053 INFO  base.CustomDriver -Element :: Radio HONDA is selected
+19:11:40.053 INFO  base.TestListeners -onTestSuccess -> Test Method Name: clickRadioBtnHonda
+19:11:40.054 INFO  base.CheckPoint -Clearing Results Hash Map
+19:11:40.129 INFO  base.CustomDriver -Clicked On :: BMW
+19:11:40.149 INFO  base.CustomDriver -Element :: Radio BMW is selected
+19:11:40.149 INFO  base.TestListeners -onTestSuccess -> Test Method Name: clickRadioButtonBMW
+19:11:40.150 INFO  base.CheckPoint -Clearing Results Hash Map
+19:11:40.188 INFO  base.CustomDriver -Clicked On :: Apple
+19:11:40.202 INFO  base.CustomDriver -Element :: Multiple APPLE is selected
+19:11:40.202 INFO  base.TestListeners -onTestSuccess -> Test Method Name: multipleSelectionApple
+19:11:40.203 INFO  base.CheckPoint -Clearing Results Hash Map
+19:11:40.238 INFO  base.CustomDriver -Clicked On :: Orange
+19:11:40.251 INFO  base.CustomDriver -Element :: Multiple ORANGE is selected
+19:11:40.252 INFO  base.TestListeners -onTestSuccess -> Test Method Name: multipleSelectionOrange
+19:11:40.252 INFO  base.CheckPoint -Clearing Results Hash Map
+19:11:40.289 INFO  base.CustomDriver -Clicked On :: Peach
+19:11:40.303 INFO  base.CustomDriver -Element :: Multiple PEACH is selected
+19:11:40.303 INFO  base.TestListeners -onTestSuccess -> Test Method Name: multipleSelectionPeach
+19:11:40.304 INFO  base.CheckPoint -Clearing Results Hash Map
+19:11:40.342 INFO  base.CustomDriver -Clicked On :: BENZ
+19:11:40.358 INFO  base.CustomDriver -Element :: Dropdown BENZ is selected
+19:11:40.359 INFO  base.TestListeners -onTestSuccess -> Test Method Name: selectDropdownBenz
+19:11:40.359 INFO  base.CheckPoint -Clearing Results Hash Map
+19:11:40.390 INFO  base.CustomDriver -Clicked On :: BMW
+19:11:40.404 INFO  base.CustomDriver -Element :: Dropdown BMW is selected
+19:11:40.404 INFO  base.TestListeners -onTestSuccess -> Test Method Name: selectDropdownBmw
+19:11:40.404 INFO  base.CheckPoint -Clearing Results Hash Map
+19:11:40.436 INFO  base.CustomDriver -Clicked On :: Honda
+19:11:40.451 INFO  base.CustomDriver -Element :: Dropdown HONDA is selected
+19:11:40.451 INFO  base.TestListeners -onTestSuccess -> Test Method Name: selectDropdownHonda
+19:11:40.452 INFO  base.CheckPoint -Clearing Results Hash Map
+19:11:40.470 INFO  utilities.Util -Actual Text From Web Application UI   --> : Practice
+19:11:40.470 INFO  utilities.Util -Expected Text From Web Application UI --> : Practice
+19:11:40.470 INFO  utilities.Util -### Verification Contains !!!
+19:11:40.470 INFO  base.TestListeners -onTestSuccess -> Test Method Name: verifyTitle
+19:11:40.472 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test
+19:17:21.043 INFO  utilities.Util -Current Date and Time :: 05_19_2020 19_17_21
+19:17:21.047 INFO  utilities.ExtentManager -*********** Report Path ***********
+19:17:21.047 INFO  utilities.ExtentManager -C:\Users\cheap\workspace\letskodeit/reports/AutomationReport_05_19_2020 19_17_21.html
+19:17:21.047 INFO  utilities.ExtentManager -*********** Report Path ***********
+19:17:21.198 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+19:17:21.198 INFO  base.TestListeners -These methods will be executed in this <test> tag
+19:17:21.198 INFO  base.TestListeners -clickRadioBtnBenz
+19:17:21.198 INFO  base.TestListeners -clickRadioBtnHonda
+19:17:21.198 INFO  base.TestListeners -clickRadioButtonBMW
+19:17:21.198 INFO  base.TestListeners -multipleSelectionApple
+19:17:21.198 INFO  base.TestListeners -multipleSelectionOrange
+19:17:21.198 INFO  base.TestListeners -multipleSelectionPeach
+19:17:21.199 INFO  base.TestListeners -selectDropdown
+19:17:21.199 INFO  base.TestListeners -selectDropdownBenz
+19:17:21.199 INFO  base.TestListeners -selectDropdownBmw
+19:17:21.199 INFO  base.TestListeners -selectDropdownHonda
+19:17:21.199 INFO  base.TestListeners -verifyTitle
+19:17:21.219 INFO  base.WebDriverFactory -OS Name from system property :: win
+19:17:21.219 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+19:17:28.576 INFO  base.CustomDriver -Clicked On :: Login Link
+19:17:33.549 INFO  base.CustomDriver -Send Keys on element :: Email Field with data :: asidcam@gmail.com
+19:17:33.638 INFO  base.CustomDriver -Send Keys on element :: Password Field with data :: 246//Asid
+19:17:37.694 INFO  base.CustomDriver -Clicked On :: Login Button
+19:17:37.759 INFO  base.CustomDriver -Clicked On :: Practice Link
+19:17:37.766 INFO  base.CheckPoint -Clearing Results Hash Map
+19:17:38.781 INFO  base.CustomDriver -Clicked On :: BENZ
+19:17:38.796 INFO  base.CustomDriver -Element :: Radio BENZ is selected
+19:17:38.799 INFO  base.TestListeners -onTestSuccess -> Test Method Name: clickRadioBtnBenz
+19:17:38.804 INFO  base.CheckPoint -Clearing Results Hash Map
+19:17:38.868 INFO  base.CustomDriver -Clicked On :: HONDA
+19:17:38.883 INFO  base.CustomDriver -Element :: Radio HONDA is selected
+19:17:38.884 INFO  base.TestListeners -onTestSuccess -> Test Method Name: clickRadioBtnHonda
+19:17:38.884 INFO  base.CheckPoint -Clearing Results Hash Map
+19:17:38.933 INFO  base.CustomDriver -Clicked On :: BMW
+19:17:38.949 INFO  base.CustomDriver -Element :: Radio BMW is selected
+19:17:38.949 INFO  base.TestListeners -onTestSuccess -> Test Method Name: clickRadioButtonBMW
+19:17:38.950 INFO  base.CheckPoint -Clearing Results Hash Map
+19:17:38.986 INFO  base.CustomDriver -Clicked On :: Apple
+19:17:39.001 INFO  base.CustomDriver -Element :: Multiple APPLE is selected
+19:17:39.001 INFO  base.TestListeners -onTestSuccess -> Test Method Name: multipleSelectionApple
+19:17:39.002 INFO  base.CheckPoint -Clearing Results Hash Map
+19:17:39.037 INFO  base.CustomDriver -Clicked On :: Orange
+19:17:39.050 INFO  base.CustomDriver -Element :: Multiple ORANGE is selected
+19:17:39.050 INFO  base.TestListeners -onTestSuccess -> Test Method Name: multipleSelectionOrange
+19:17:39.051 INFO  base.CheckPoint -Clearing Results Hash Map
+19:17:39.088 INFO  base.CustomDriver -Clicked On :: Peach
+19:17:39.103 INFO  base.CustomDriver -Element :: Multiple PEACH is selected
+19:17:39.104 INFO  base.TestListeners -onTestSuccess -> Test Method Name: multipleSelectionPeach
+19:17:39.104 INFO  base.CheckPoint -Clearing Results Hash Map
+19:17:39.162 INFO  base.CustomDriver -Clicked On :: Select class Example
+19:17:39.176 INFO  base.CustomDriver -Element :: Select class Example dropdown is already selected
+19:17:39.180 INFO  base.TestListeners -onTestFailure -> Test Method Name: selectDropdown
+19:17:39.180 INFO  base.WebDriverFactory -OS Name from system property :: win
+19:17:39.180 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+19:17:39.181 INFO  utilities.Util -Current Date and Time :: 05_19_2020 19_17_39
+19:17:39.805 INFO  base.CustomDriver -Screen Shot Was Stored at: C:\Users\cheap\workspace\letskodeit/screenshots/chrome_selectDropdown_05_19_2020 19_17_39.png
+19:17:39.807 INFO  base.CheckPoint -Clearing Results Hash Map
+19:17:39.853 INFO  base.CustomDriver -Clicked On :: BENZ
+19:17:39.869 INFO  base.CustomDriver -Element :: Dropdown BENZ is selected
+19:17:39.869 INFO  base.TestListeners -onTestSuccess -> Test Method Name: selectDropdownBenz
+19:17:39.870 INFO  base.CheckPoint -Clearing Results Hash Map
+19:17:39.900 INFO  base.CustomDriver -Clicked On :: BMW
+19:17:39.914 INFO  base.CustomDriver -Element :: Dropdown BMW is selected
+19:17:39.914 INFO  base.TestListeners -onTestSuccess -> Test Method Name: selectDropdownBmw
+19:17:39.914 INFO  base.CheckPoint -Clearing Results Hash Map
+19:17:39.945 INFO  base.CustomDriver -Clicked On :: Honda
+19:17:39.960 INFO  base.CustomDriver -Element :: Dropdown HONDA is selected
+19:17:39.961 INFO  base.TestListeners -onTestSuccess -> Test Method Name: selectDropdownHonda
+19:17:39.961 INFO  base.CheckPoint -Clearing Results Hash Map
+19:17:39.978 INFO  utilities.Util -Actual Text From Web Application UI   --> : Practice
+19:17:39.978 INFO  utilities.Util -Expected Text From Web Application UI --> : Practice
+19:17:39.978 INFO  utilities.Util -### Verification Contains !!!
+19:17:39.978 INFO  base.TestListeners -onTestSuccess -> Test Method Name: verifyTitle
+19:17:39.980 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test
+19:21:35.370 INFO  utilities.Util -Current Date and Time :: 05_19_2020 19_21_35
+19:21:35.374 INFO  utilities.ExtentManager -*********** Report Path ***********
+19:21:35.375 INFO  utilities.ExtentManager -C:\Users\cheap\workspace\letskodeit/reports/AutomationReport_05_19_2020 19_21_35.html
+19:21:35.375 INFO  utilities.ExtentManager -*********** Report Path ***********
+19:21:35.514 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+19:21:35.514 INFO  base.TestListeners -These methods will be executed in this <test> tag
+19:21:35.514 INFO  base.TestListeners -clickRadioBtnBenz
+19:21:35.514 INFO  base.TestListeners -clickRadioBtnHonda
+19:21:35.514 INFO  base.TestListeners -clickRadioButtonBMW
+19:21:35.514 INFO  base.TestListeners -multipleSelectionApple
+19:21:35.515 INFO  base.TestListeners -multipleSelectionOrange
+19:21:35.515 INFO  base.TestListeners -multipleSelectionPeach
+19:21:35.515 INFO  base.TestListeners -selectDropdown
+19:21:35.515 INFO  base.TestListeners -selectDropdownBenz
+19:21:35.515 INFO  base.TestListeners -selectDropdownBmw
+19:21:35.515 INFO  base.TestListeners -selectDropdownHonda
+19:21:35.515 INFO  base.TestListeners -verifyTitle
+19:21:35.533 INFO  base.WebDriverFactory -OS Name from system property :: win
+19:21:35.533 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+19:21:44.043 INFO  base.CustomDriver -Clicked On :: Login Link
+19:21:46.578 INFO  base.CustomDriver -Send Keys on element :: Email Field with data :: asidcam@gmail.com
+19:21:46.661 INFO  base.CustomDriver -Send Keys on element :: Password Field with data :: 246//Asid
+19:21:50.484 INFO  base.CustomDriver -Clicked On :: Login Button
+19:21:50.605 INFO  base.CustomDriver -Clicked On :: Practice Link
+19:21:50.612 INFO  base.CheckPoint -Clearing Results Hash Map
+19:21:52.869 INFO  base.CustomDriver -Clicked On :: BENZ
+19:21:52.884 INFO  base.CustomDriver -Element :: Radio BENZ is selected
+19:21:52.887 INFO  base.TestListeners -onTestSuccess -> Test Method Name: clickRadioBtnBenz
+19:21:52.894 INFO  base.CheckPoint -Clearing Results Hash Map
+19:21:52.952 INFO  base.CustomDriver -Clicked On :: HONDA
+19:21:52.967 INFO  base.CustomDriver -Element :: Radio HONDA is selected
+19:21:52.967 INFO  base.TestListeners -onTestSuccess -> Test Method Name: clickRadioBtnHonda
+19:21:52.968 INFO  base.CheckPoint -Clearing Results Hash Map
+19:21:53.015 INFO  base.CustomDriver -Clicked On :: BMW
+19:21:53.031 INFO  base.CustomDriver -Element :: Radio BMW is selected
+19:21:53.032 INFO  base.TestListeners -onTestSuccess -> Test Method Name: clickRadioButtonBMW
+19:21:53.032 INFO  base.CheckPoint -Clearing Results Hash Map
+19:21:53.070 INFO  base.CustomDriver -Clicked On :: Apple
+19:21:53.083 INFO  base.CustomDriver -Element :: Multiple APPLE is selected
+19:21:53.084 INFO  base.TestListeners -onTestSuccess -> Test Method Name: multipleSelectionApple
+19:21:53.084 INFO  base.CheckPoint -Clearing Results Hash Map
+19:21:53.120 INFO  base.CustomDriver -Clicked On :: Orange
+19:21:53.137 INFO  base.CustomDriver -Element :: Multiple ORANGE is selected
+19:21:53.137 INFO  base.TestListeners -onTestSuccess -> Test Method Name: multipleSelectionOrange
+19:21:53.138 INFO  base.CheckPoint -Clearing Results Hash Map
+19:21:53.180 INFO  base.CustomDriver -Clicked On :: Peach
+19:21:53.193 INFO  base.CustomDriver -Element :: Multiple PEACH is selected
+19:21:53.193 INFO  base.TestListeners -onTestSuccess -> Test Method Name: multipleSelectionPeach
+19:21:53.193 INFO  base.CheckPoint -Clearing Results Hash Map
+19:21:53.252 INFO  base.CustomDriver -Clicked On :: Select class Example
+19:21:53.269 INFO  base.CustomDriver -Element :: dropdown CARS is already selected
+19:21:53.273 INFO  base.TestListeners -onTestFailure -> Test Method Name: selectDropdown
+19:21:53.274 INFO  base.WebDriverFactory -OS Name from system property :: win
+19:21:53.274 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+19:21:53.275 INFO  utilities.Util -Current Date and Time :: 05_19_2020 19_21_53
+19:21:53.963 INFO  base.CustomDriver -Screen Shot Was Stored at: C:\Users\cheap\workspace\letskodeit/screenshots/chrome_selectDropdown_05_19_2020 19_21_53.png
+19:21:53.966 INFO  base.CheckPoint -Clearing Results Hash Map
+19:21:53.998 INFO  base.CustomDriver -Clicked On :: BENZ
+19:21:54.012 INFO  base.CustomDriver -Element :: Dropdown BENZ is selected
+19:21:54.013 INFO  base.TestListeners -onTestSuccess -> Test Method Name: selectDropdownBenz
+19:21:54.013 INFO  base.CheckPoint -Clearing Results Hash Map
+19:21:54.045 INFO  base.CustomDriver -Clicked On :: BMW
+19:21:54.059 INFO  base.CustomDriver -Element :: Dropdown BMW is selected
+19:21:54.059 INFO  base.TestListeners -onTestSuccess -> Test Method Name: selectDropdownBmw
+19:21:54.060 INFO  base.CheckPoint -Clearing Results Hash Map
+19:21:54.090 INFO  base.CustomDriver -Clicked On :: Honda
+19:21:54.105 INFO  base.CustomDriver -Element :: Dropdown HONDA is selected
+19:21:54.105 INFO  base.TestListeners -onTestSuccess -> Test Method Name: selectDropdownHonda
+19:21:54.105 INFO  base.CheckPoint -Clearing Results Hash Map
+19:21:54.123 INFO  utilities.Util -Actual Text From Web Application UI   --> : Practice
+19:21:54.123 INFO  utilities.Util -Expected Text From Web Application UI --> : Practice
+19:21:54.123 INFO  utilities.Util -### Verification Contains !!!
+19:21:54.123 INFO  base.TestListeners -onTestSuccess -> Test Method Name: verifyTitle
+19:21:54.126 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test
+19:23:41.794 INFO  utilities.Util -Current Date and Time :: 05_19_2020 19_23_41
+19:23:41.799 INFO  utilities.ExtentManager -*********** Report Path ***********
+19:23:41.799 INFO  utilities.ExtentManager -C:\Users\cheap\workspace\letskodeit/reports/AutomationReport_05_19_2020 19_23_41.html
+19:23:41.799 INFO  utilities.ExtentManager -*********** Report Path ***********
+19:23:41.954 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+19:23:41.955 INFO  base.TestListeners -These methods will be executed in this <test> tag
+19:23:41.955 INFO  base.TestListeners -clickRadioBtnBenz
+19:23:41.955 INFO  base.TestListeners -clickRadioBtnHonda
+19:23:41.955 INFO  base.TestListeners -clickRadioButtonBMW
+19:23:41.955 INFO  base.TestListeners -multipleSelectionApple
+19:23:41.955 INFO  base.TestListeners -multipleSelectionOrange
+19:23:41.955 INFO  base.TestListeners -multipleSelectionPeach
+19:23:41.955 INFO  base.TestListeners -selectDropdownBenz
+19:23:41.955 INFO  base.TestListeners -selectDropdownBmw
+19:23:41.955 INFO  base.TestListeners -selectDropdownHonda
+19:23:41.955 INFO  base.TestListeners -verifyTitle
+19:23:41.975 INFO  base.WebDriverFactory -OS Name from system property :: win
+19:23:41.975 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+19:23:57.243 INFO  base.CustomDriver -Clicked On :: Login Link
+19:24:02.867 INFO  base.CustomDriver -Send Keys on element :: Email Field with data :: asidcam@gmail.com
+19:24:02.973 INFO  base.CustomDriver -Send Keys on element :: Password Field with data :: 246//Asid
+19:24:06.467 INFO  base.CustomDriver -Clicked On :: Login Button
+19:24:06.573 INFO  base.CustomDriver -Clicked On :: Practice Link
+19:24:06.581 INFO  base.CheckPoint -Clearing Results Hash Map
+19:24:08.023 INFO  base.CustomDriver -Clicked On :: BENZ
+19:24:08.045 INFO  base.CustomDriver -Element :: Radio BENZ is selected
+19:24:08.050 INFO  base.TestListeners -onTestSuccess -> Test Method Name: clickRadioBtnBenz
+19:24:08.058 INFO  base.CheckPoint -Clearing Results Hash Map
+19:24:08.142 INFO  base.CustomDriver -Clicked On :: HONDA
+19:24:08.164 INFO  base.CustomDriver -Element :: Radio HONDA is selected
+19:24:08.164 INFO  base.TestListeners -onTestSuccess -> Test Method Name: clickRadioBtnHonda
+19:24:08.165 INFO  base.CheckPoint -Clearing Results Hash Map
+19:24:08.232 INFO  base.CustomDriver -Clicked On :: BMW
+19:24:08.253 INFO  base.CustomDriver -Element :: Radio BMW is selected
+19:24:08.253 INFO  base.TestListeners -onTestSuccess -> Test Method Name: clickRadioButtonBMW
+19:24:08.254 INFO  base.CheckPoint -Clearing Results Hash Map
+19:24:08.301 INFO  base.CustomDriver -Clicked On :: Apple
+19:24:08.317 INFO  base.CustomDriver -Element :: Multiple APPLE is selected
+19:24:08.318 INFO  base.TestListeners -onTestSuccess -> Test Method Name: multipleSelectionApple
+19:24:08.319 INFO  base.CheckPoint -Clearing Results Hash Map
+19:24:08.363 INFO  base.CustomDriver -Clicked On :: Orange
+19:24:08.376 INFO  base.CustomDriver -Element :: Multiple ORANGE is selected
+19:24:08.377 INFO  base.TestListeners -onTestSuccess -> Test Method Name: multipleSelectionOrange
+19:24:08.377 INFO  base.CheckPoint -Clearing Results Hash Map
+19:24:08.414 INFO  base.CustomDriver -Clicked On :: Peach
+19:24:08.427 INFO  base.CustomDriver -Element :: Multiple PEACH is selected
+19:24:08.427 INFO  base.TestListeners -onTestSuccess -> Test Method Name: multipleSelectionPeach
+19:24:08.428 INFO  base.CheckPoint -Clearing Results Hash Map
+19:24:08.462 INFO  base.CustomDriver -Clicked On :: BENZ
+19:24:08.477 INFO  base.CustomDriver -Element :: Dropdown BENZ is selected
+19:24:08.477 INFO  base.TestListeners -onTestSuccess -> Test Method Name: selectDropdownBenz
+19:24:08.478 INFO  base.CheckPoint -Clearing Results Hash Map
+19:24:08.509 INFO  base.CustomDriver -Clicked On :: BMW
+19:24:08.522 INFO  base.CustomDriver -Element :: Dropdown BMW is selected
+19:24:08.522 INFO  base.TestListeners -onTestSuccess -> Test Method Name: selectDropdownBmw
+19:24:08.523 INFO  base.CheckPoint -Clearing Results Hash Map
+19:24:08.557 INFO  base.CustomDriver -Clicked On :: Honda
+19:24:08.572 INFO  base.CustomDriver -Element :: Dropdown HONDA is selected
+19:24:08.572 INFO  base.TestListeners -onTestSuccess -> Test Method Name: selectDropdownHonda
+19:24:08.573 INFO  base.CheckPoint -Clearing Results Hash Map
+19:24:08.591 INFO  utilities.Util -Actual Text From Web Application UI   --> : Practice
+19:24:08.591 INFO  utilities.Util -Expected Text From Web Application UI --> : Practice
+19:24:08.591 INFO  utilities.Util -### Verification Contains !!!
+19:24:08.591 INFO  base.TestListeners -onTestSuccess -> Test Method Name: verifyTitle
+19:24:08.593 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test
+19:25:11.683 INFO  utilities.Util -Current Date and Time :: 05_19_2020 19_25_11
+19:25:11.687 INFO  utilities.ExtentManager -*********** Report Path ***********
+19:25:11.687 INFO  utilities.ExtentManager -C:\Users\cheap\workspace\letskodeit/reports/AutomationReport_05_19_2020 19_25_11.html
+19:25:11.687 INFO  utilities.ExtentManager -*********** Report Path ***********
+19:25:11.831 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+19:25:11.831 INFO  base.TestListeners -These methods will be executed in this <test> tag
+19:25:11.831 INFO  base.TestListeners -clickRadioBtnBenz
+19:25:11.831 INFO  base.TestListeners -clickRadioBtnHonda
+19:25:11.832 INFO  base.TestListeners -clickRadioButtonBMW
+19:25:11.832 INFO  base.TestListeners -multipleSelectionApple
+19:25:11.832 INFO  base.TestListeners -multipleSelectionOrange
+19:25:11.832 INFO  base.TestListeners -multipleSelectionPeach
+19:25:11.832 INFO  base.TestListeners -selectDropdownBenz
+19:25:11.832 INFO  base.TestListeners -selectDropdownBmw
+19:25:11.832 INFO  base.TestListeners -selectDropdownHonda
+19:25:11.832 INFO  base.TestListeners -verifyTitle
+19:25:11.850 INFO  base.WebDriverFactory -OS Name from system property :: win
+19:25:11.850 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+19:25:20.312 INFO  base.CustomDriver -Clicked On :: Login Link
+19:25:24.253 INFO  base.CustomDriver -Send Keys on element :: Email Field with data :: asidcam@gmail.com
+19:25:24.340 INFO  base.CustomDriver -Send Keys on element :: Password Field with data :: 246//Asid
+19:25:28.123 INFO  base.CustomDriver -Clicked On :: Login Button
+19:25:28.221 INFO  base.CustomDriver -Clicked On :: Practice Link
+19:25:28.231 INFO  base.CheckPoint -Clearing Results Hash Map
+19:25:29.680 INFO  base.CustomDriver -Clicked On :: BENZ
+19:25:29.694 INFO  base.CustomDriver -Element :: Radio BENZ is selected
+19:25:29.697 INFO  base.TestListeners -onTestSuccess -> Test Method Name: clickRadioBtnBenz
+19:25:29.702 INFO  base.CheckPoint -Clearing Results Hash Map
+19:25:29.767 INFO  base.CustomDriver -Clicked On :: HONDA
+19:25:29.783 INFO  base.CustomDriver -Element :: Radio HONDA is selected
+19:25:29.783 INFO  base.TestListeners -onTestSuccess -> Test Method Name: clickRadioBtnHonda
+19:25:29.784 INFO  base.CheckPoint -Clearing Results Hash Map
+19:25:29.830 INFO  base.CustomDriver -Clicked On :: BMW
+19:25:29.844 INFO  base.CustomDriver -Element :: Radio BMW is selected
+19:25:29.845 INFO  base.TestListeners -onTestSuccess -> Test Method Name: clickRadioButtonBMW
+19:25:29.845 INFO  base.CheckPoint -Clearing Results Hash Map
+19:25:29.883 INFO  base.CustomDriver -Clicked On :: Apple
+19:25:29.898 INFO  base.CustomDriver -Element :: Multiple APPLE is selected
+19:25:29.898 INFO  base.TestListeners -onTestSuccess -> Test Method Name: multipleSelectionApple
+19:25:29.899 INFO  base.CheckPoint -Clearing Results Hash Map
+19:25:29.936 INFO  base.CustomDriver -Clicked On :: Orange
+19:25:29.949 INFO  base.CustomDriver -Element :: Multiple ORANGE is selected
+19:25:29.950 INFO  base.TestListeners -onTestSuccess -> Test Method Name: multipleSelectionOrange
+19:25:29.950 INFO  base.CheckPoint -Clearing Results Hash Map
+19:25:29.987 INFO  base.CustomDriver -Clicked On :: Peach
+19:25:30.001 INFO  base.CustomDriver -Element :: Multiple PEACH is selected
+19:25:30.002 INFO  base.TestListeners -onTestSuccess -> Test Method Name: multipleSelectionPeach
+19:25:30.002 INFO  base.CheckPoint -Clearing Results Hash Map
+19:25:30.037 INFO  base.CustomDriver -Clicked On :: BENZ
+19:25:30.055 INFO  base.CustomDriver -Element :: Dropdown BENZ is selected
+19:25:30.055 INFO  base.TestListeners -onTestSuccess -> Test Method Name: selectDropdownBenz
+19:25:30.056 INFO  base.CheckPoint -Clearing Results Hash Map
+19:25:30.089 INFO  base.CustomDriver -Clicked On :: BMW
+19:25:30.103 INFO  base.CustomDriver -Element :: Dropdown BMW is selected
+19:25:30.103 INFO  base.TestListeners -onTestSuccess -> Test Method Name: selectDropdownBmw
+19:25:30.104 INFO  base.CheckPoint -Clearing Results Hash Map
+19:25:30.134 INFO  base.CustomDriver -Clicked On :: Honda
+19:25:30.149 INFO  base.CustomDriver -Element :: Dropdown HONDA is selected
+19:25:30.149 INFO  base.TestListeners -onTestSuccess -> Test Method Name: selectDropdownHonda
+19:25:30.150 INFO  base.CheckPoint -Clearing Results Hash Map
+19:25:30.167 INFO  utilities.Util -Actual Text From Web Application UI   --> : Practice
+19:25:30.167 INFO  utilities.Util -Expected Text From Web Application UI --> : Practice
+19:25:30.167 INFO  utilities.Util -### Verification Contains !!!
+19:25:30.168 INFO  base.TestListeners -onTestSuccess -> Test Method Name: verifyTitle
+19:25:30.169 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test

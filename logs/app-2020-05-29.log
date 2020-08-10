@@ -1,0 +1,403 @@
+12:34:59.113 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_34_59
+12:34:59.126 INFO  utilities.ExtentManager -*********** Report Path ***********
+12:34:59.126 INFO  utilities.ExtentManager -C:\Users\cheap\workspace\letskodeit/reports/AutomationReport_05_29_2020 12_34_59.html
+12:34:59.126 INFO  utilities.ExtentManager -*********** Report Path ***********
+12:34:59.300 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+12:34:59.300 INFO  base.TestListeners -These methods will be executed in this <test> tag
+12:34:59.300 INFO  base.TestListeners -CheckboxBMW
+12:34:59.300 INFO  base.TestListeners -CheckboxBenz
+12:34:59.300 INFO  base.TestListeners -CheckboxHonda
+12:34:59.300 INFO  base.TestListeners -alert
+12:34:59.301 INFO  base.TestListeners -clickRadioBtnBenz
+12:34:59.301 INFO  base.TestListeners -clickRadioBtnHonda
+12:34:59.301 INFO  base.TestListeners -clickRadioButtonBMW
+12:34:59.301 INFO  base.TestListeners -hideTextBox
+12:34:59.301 INFO  base.TestListeners -mouseHover
+12:34:59.301 INFO  base.TestListeners -multipleSelectionApple
+12:34:59.301 INFO  base.TestListeners -multipleSelectionOrange
+12:34:59.301 INFO  base.TestListeners -multipleSelectionPeach
+12:34:59.301 INFO  base.TestListeners -openWindow
+12:34:59.302 INFO  base.TestListeners -selectDropdownBenz
+12:34:59.302 INFO  base.TestListeners -selectDropdownBmw
+12:34:59.302 INFO  base.TestListeners -selectDropdownHonda
+12:34:59.302 INFO  base.TestListeners -showTextBox
+12:34:59.302 INFO  base.TestListeners -switchWindow
+12:34:59.302 INFO  base.TestListeners -tableText
+12:34:59.302 INFO  base.TestListeners -verifyTitle
+12:34:59.323 INFO  base.WebDriverFactory -OS Name from system property :: win
+12:34:59.323 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+12:35:07.422 INFO  base.CustomDriver -Clicked On :: Login Link
+12:35:12.481 INFO  base.CustomDriver -Send Keys on element :: Email Field with data :: asidcam@gmail.com
+12:35:12.567 INFO  base.CustomDriver -Send Keys on element :: Password Field with data :: 246//Asid
+12:35:12.874 INFO  base.CustomDriver -Clicked On :: Login Button
+12:35:22.943 ERROR base.CustomDriver -Element not found with: xpath=>//a[@href='/pages/practice']
+12:35:22.944 ERROR base.CustomDriver -Cannot click on :: Practice Link
+12:35:22.944 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_35_22
+12:35:23.482 INFO  base.CustomDriver -Screen Shot Was Stored at: C:\Users\cheap\workspace\letskodeit/screenshots/_Click ERROR_05_29_2020 12_35_22.png
+12:35:23.489 INFO  base.CheckPoint -Clearing Results Hash Map
+12:35:33.540 ERROR base.CustomDriver -Element not found with: id=>bmwcheck
+12:35:33.542 ERROR base.CustomDriver -Cannot click on :: BMW
+12:35:33.542 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_35_33
+12:35:34.034 INFO  base.CustomDriver -Screen Shot Was Stored at: C:\Users\cheap\workspace\letskodeit/screenshots/_Click ERROR_05_29_2020 12_35_33.png
+12:35:44.067 ERROR base.CustomDriver -Element not found with: id=>bmwcheck
+12:35:44.097 INFO  base.TestListeners -onTestFailure -> Test Method Name: CheckboxBMW
+12:35:44.103 INFO  base.WebDriverFactory -OS Name from system property :: win
+12:35:44.103 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+12:35:44.103 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_35_44
+12:35:44.580 INFO  base.CustomDriver -Screen Shot Was Stored at: C:\Users\cheap\workspace\letskodeit/screenshots/chrome_CheckboxBMW_05_29_2020 12_35_44.png
+12:35:44.586 INFO  base.CheckPoint -Clearing Results Hash Map
+12:35:54.609 ERROR base.CustomDriver -Element not found with: id=>benzcheck
+12:35:54.610 ERROR base.CustomDriver -Cannot click on :: Benz
+12:35:54.611 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_35_54
+12:35:55.107 INFO  base.CustomDriver -Screen Shot Was Stored at: C:\Users\cheap\workspace\letskodeit/screenshots/_Click ERROR_05_29_2020 12_35_54.png
+12:36:05.133 ERROR base.CustomDriver -Element not found with: id=>benzcheck
+12:36:05.135 INFO  base.TestListeners -onTestFailure -> Test Method Name: CheckboxBenz
+12:36:05.136 INFO  base.WebDriverFactory -OS Name from system property :: win
+12:36:05.136 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+12:36:05.136 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_36_05
+12:36:05.606 INFO  base.CustomDriver -Screen Shot Was Stored at: C:\Users\cheap\workspace\letskodeit/screenshots/chrome_CheckboxBenz_05_29_2020 12_36_05.png
+12:36:05.606 INFO  base.CheckPoint -Clearing Results Hash Map
+12:36:06.063 ERROR base.CustomDriver -Element not found with: id=>hondacheck
+12:36:06.064 ERROR base.CustomDriver -Cannot click on :: Honda
+12:36:06.065 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_36_06
+12:36:06.074 ERROR base.CustomDriver -Element not found with: id=>hondacheck
+12:36:06.078 INFO  base.TestListeners -onTestFailure -> Test Method Name: CheckboxHonda
+12:36:06.078 INFO  base.WebDriverFactory -OS Name from system property :: win
+12:36:06.079 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+12:36:06.079 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_36_06
+12:36:06.085 INFO  base.CheckPoint -Clearing Results Hash Map
+12:36:06.092 ERROR base.CustomDriver -Element not found with: id=>name
+12:36:06.095 ERROR base.CustomDriver -Cannot send keys on element :: Name field with data :: Kaiser N
+12:36:06.101 ERROR base.CustomDriver -Element not found with: id=>alertbtn
+12:36:06.102 ERROR base.CustomDriver -Cannot click on :: Alert Button
+12:36:06.103 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_36_06
+12:36:06.113 INFO  base.TestListeners -onTestFailure -> Test Method Name: alert
+12:36:06.115 INFO  base.WebDriverFactory -OS Name from system property :: win
+12:36:06.115 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+12:36:06.115 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_36_06
+12:36:06.119 INFO  base.CheckPoint -Clearing Results Hash Map
+12:36:06.123 ERROR base.CustomDriver -Element not found with: id=>benzradio
+12:36:06.124 ERROR base.CustomDriver -Cannot click on :: BENZ
+12:36:06.124 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_36_06
+12:36:06.132 ERROR base.CustomDriver -Element not found with: id=>benzradio
+12:36:06.135 INFO  base.TestListeners -onTestFailure -> Test Method Name: clickRadioBtnBenz
+12:36:06.136 INFO  base.WebDriverFactory -OS Name from system property :: win
+12:36:06.136 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+12:36:06.136 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_36_06
+12:36:06.141 INFO  base.CheckPoint -Clearing Results Hash Map
+12:36:06.148 ERROR base.CustomDriver -Element not found with: id=>hondaradio
+12:36:06.150 ERROR base.CustomDriver -Cannot click on :: HONDA
+12:36:06.150 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_36_06
+12:36:06.160 ERROR base.CustomDriver -Element not found with: id=>hondaradio
+12:36:06.162 INFO  base.TestListeners -onTestFailure -> Test Method Name: clickRadioBtnHonda
+12:36:06.163 INFO  base.WebDriverFactory -OS Name from system property :: win
+12:36:06.164 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+12:36:06.164 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_36_06
+12:36:06.176 INFO  base.CheckPoint -Clearing Results Hash Map
+12:36:06.185 ERROR base.CustomDriver -Element not found with: id=>bmwradio
+12:36:06.186 ERROR base.CustomDriver -Cannot click on :: BMW
+12:36:06.186 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_36_06
+12:36:06.193 ERROR base.CustomDriver -Element not found with: id=>bmwradio
+12:36:06.194 INFO  base.TestListeners -onTestFailure -> Test Method Name: clickRadioButtonBMW
+12:36:06.195 INFO  base.WebDriverFactory -OS Name from system property :: win
+12:36:06.195 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+12:36:06.196 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_36_06
+12:36:06.203 INFO  base.CheckPoint -Clearing Results Hash Map
+12:36:06.207 ERROR base.CustomDriver -Element not found with: id=>displayed-text
+12:36:06.210 ERROR base.CustomDriver -Element not found with: id=>hide-textbox
+12:36:06.211 ERROR base.CustomDriver -Cannot click on :: Hide
+12:36:06.211 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_36_06
+12:36:06.219 ERROR base.CustomDriver -Element not found with: id=>displayed-text
+12:36:06.219 INFO  base.TestListeners -onTestSuccess -> Test Method Name: hideTextBox
+12:36:06.220 INFO  base.CheckPoint -Clearing Results Hash Map
+12:36:06.224 ERROR base.CustomDriver -Element not found with: id=>mousehover
+12:36:06.227 INFO  base.TestListeners -onTestFailure -> Test Method Name: mouseHover
+12:36:06.227 INFO  base.WebDriverFactory -OS Name from system property :: win
+12:36:06.227 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+12:36:06.227 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_36_06
+12:36:06.233 INFO  base.CheckPoint -Clearing Results Hash Map
+12:36:06.237 ERROR base.CustomDriver -Element not found with: xpath=>//option[@value='apple']
+12:36:06.238 ERROR base.CustomDriver -Cannot click on :: Apple
+12:36:06.238 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_36_06
+12:36:06.242 ERROR base.CustomDriver -Element not found with: xpath=>//option[@value='apple']
+12:36:06.243 INFO  base.TestListeners -onTestFailure -> Test Method Name: multipleSelectionApple
+12:36:06.243 INFO  base.WebDriverFactory -OS Name from system property :: win
+12:36:06.243 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+12:36:06.244 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_36_06
+12:36:06.248 INFO  base.CheckPoint -Clearing Results Hash Map
+12:36:06.252 ERROR base.CustomDriver -Element not found with: xpath=>//option[@value='orange']
+12:36:06.252 ERROR base.CustomDriver -Cannot click on :: Orange
+12:36:06.252 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_36_06
+12:36:06.256 ERROR base.CustomDriver -Element not found with: xpath=>//option[@value='orange']
+12:36:06.257 INFO  base.TestListeners -onTestFailure -> Test Method Name: multipleSelectionOrange
+12:36:06.257 INFO  base.WebDriverFactory -OS Name from system property :: win
+12:36:06.257 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+12:36:06.258 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_36_06
+12:36:06.260 INFO  base.CheckPoint -Clearing Results Hash Map
+12:36:06.265 ERROR base.CustomDriver -Element not found with: xpath=>//option[@value='peach']
+12:36:06.265 ERROR base.CustomDriver -Cannot click on :: Peach
+12:36:06.265 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_36_06
+12:36:06.271 ERROR base.CustomDriver -Element not found with: xpath=>//option[@value='peach']
+12:36:06.272 INFO  base.TestListeners -onTestFailure -> Test Method Name: multipleSelectionPeach
+12:36:06.273 INFO  base.WebDriverFactory -OS Name from system property :: win
+12:36:06.273 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+12:36:06.273 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_36_06
+12:36:06.276 INFO  base.CheckPoint -Clearing Results Hash Map
+12:36:06.281 ERROR base.CustomDriver -Element not found with: id=>openwindow
+12:36:06.282 ERROR base.CustomDriver -Cannot click on :: Open Window
+12:36:06.282 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_36_06
+12:36:06.285 INFO  base.TestListeners -onTestSuccess -> Test Method Name: openWindow
+12:36:06.285 INFO  base.CheckPoint -Clearing Results Hash Map
+12:36:06.289 ERROR base.CustomDriver -Element not found with: xpath=>//option[@value='benz']
+12:36:06.289 ERROR base.CustomDriver -Cannot click on :: BENZ
+12:36:06.289 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_36_06
+12:36:06.296 ERROR base.CustomDriver -Element not found with: xpath=>//option[@value='benz']
+12:36:06.298 INFO  base.TestListeners -onTestFailure -> Test Method Name: selectDropdownBenz
+12:36:06.298 INFO  base.WebDriverFactory -OS Name from system property :: win
+12:36:06.298 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+12:36:06.299 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_36_06
+12:36:06.302 INFO  base.CheckPoint -Clearing Results Hash Map
+12:36:06.305 ERROR base.CustomDriver -Element not found with: xpath=>//option[@value='bmw']
+12:36:06.306 ERROR base.CustomDriver -Cannot click on :: BMW
+12:36:06.307 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_36_06
+12:36:06.313 ERROR base.CustomDriver -Element not found with: xpath=>//option[@value='bmw']
+12:36:06.315 INFO  base.TestListeners -onTestFailure -> Test Method Name: selectDropdownBmw
+12:36:06.315 INFO  base.WebDriverFactory -OS Name from system property :: win
+12:36:06.315 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+12:36:06.315 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_36_06
+12:36:06.321 INFO  base.CheckPoint -Clearing Results Hash Map
+12:36:06.325 ERROR base.CustomDriver -Element not found with: xpath=>//option[@value='honda']
+12:36:06.325 ERROR base.CustomDriver -Cannot click on :: Honda
+12:36:06.326 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_36_06
+12:36:06.333 ERROR base.CustomDriver -Element not found with: xpath=>//option[@value='honda']
+12:36:06.334 INFO  base.TestListeners -onTestFailure -> Test Method Name: selectDropdownHonda
+12:36:06.334 INFO  base.WebDriverFactory -OS Name from system property :: win
+12:36:06.334 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+12:36:06.334 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_36_06
+12:36:06.337 INFO  base.CheckPoint -Clearing Results Hash Map
+12:36:06.340 ERROR base.CustomDriver -Element not found with: id=>show-textbox
+12:36:06.340 ERROR base.CustomDriver -Cannot click on :: Show
+12:36:06.341 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_36_06
+12:36:06.346 ERROR base.CustomDriver -Element not found with: id=>displayed-text
+12:36:06.349 ERROR base.CustomDriver -Element not found with: id=>displayed-text
+12:36:06.350 INFO  base.TestListeners -onTestFailure -> Test Method Name: showTextBox
+12:36:06.350 INFO  base.WebDriverFactory -OS Name from system property :: win
+12:36:06.350 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+12:36:06.350 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_36_06
+12:36:06.353 INFO  base.CheckPoint -Clearing Results Hash Map
+12:36:06.355 INFO  base.TestListeners -onTestFailure -> Test Method Name: switchWindow
+12:36:06.356 INFO  base.WebDriverFactory -OS Name from system property :: win
+12:36:06.356 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+12:36:06.356 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_36_06
+12:36:06.359 INFO  base.CheckPoint -Clearing Results Hash Map
+12:36:06.363 ERROR base.CustomDriver -Element List not found with: xpath=>//table[@class='table-display']//tbody/tr
+12:36:06.364 INFO  base.TestListeners -onTestFailure -> Test Method Name: tableText
+12:36:06.364 INFO  base.WebDriverFactory -OS Name from system property :: win
+12:36:06.364 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+12:36:06.364 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_36_06
+12:36:06.367 INFO  base.CheckPoint -Clearing Results Hash Map
+12:36:06.370 ERROR base.CustomDriver -Element not found with: xpath=>//a[@href='/pages/practice']
+12:36:06.371 INFO  base.TestListeners -onTestFailure -> Test Method Name: verifyTitle
+12:36:06.372 INFO  base.WebDriverFactory -OS Name from system property :: win
+12:36:06.372 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+12:36:06.372 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_36_06
+12:36:06.376 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test
+12:39:18.682 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_39_18
+12:39:18.686 INFO  utilities.ExtentManager -*********** Report Path ***********
+12:39:18.686 INFO  utilities.ExtentManager -C:\Users\cheap\workspace\letskodeit/reports/AutomationReport_05_29_2020 12_39_18.html
+12:39:18.686 INFO  utilities.ExtentManager -*********** Report Path ***********
+12:39:18.840 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+12:39:18.840 INFO  base.TestListeners -These methods will be executed in this <test> tag
+12:39:18.840 INFO  base.TestListeners -CheckboxBMW
+12:39:18.840 INFO  base.TestListeners -CheckboxBenz
+12:39:18.841 INFO  base.TestListeners -CheckboxHonda
+12:39:18.841 INFO  base.TestListeners -alert
+12:39:18.841 INFO  base.TestListeners -clickRadioBtnBenz
+12:39:18.841 INFO  base.TestListeners -clickRadioBtnHonda
+12:39:18.841 INFO  base.TestListeners -clickRadioButtonBMW
+12:39:18.841 INFO  base.TestListeners -hideTextBox
+12:39:18.841 INFO  base.TestListeners -mouseHover
+12:39:18.841 INFO  base.TestListeners -multipleSelectionApple
+12:39:18.841 INFO  base.TestListeners -multipleSelectionOrange
+12:39:18.841 INFO  base.TestListeners -multipleSelectionPeach
+12:39:18.841 INFO  base.TestListeners -openWindow
+12:39:18.841 INFO  base.TestListeners -selectDropdownBenz
+12:39:18.841 INFO  base.TestListeners -selectDropdownBmw
+12:39:18.841 INFO  base.TestListeners -selectDropdownHonda
+12:39:18.841 INFO  base.TestListeners -showTextBox
+12:39:18.841 INFO  base.TestListeners -switchWindow
+12:39:18.842 INFO  base.TestListeners -tableText
+12:39:18.842 INFO  base.TestListeners -verifyTitle
+12:39:18.863 INFO  base.WebDriverFactory -OS Name from system property :: win
+12:39:18.863 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+12:39:26.830 INFO  base.CustomDriver -Clicked On :: Login Link
+12:39:29.408 INFO  base.CustomDriver -Send Keys on element :: Email Field with data :: asidcam@gmail.com
+12:39:29.495 INFO  base.CustomDriver -Send Keys on element :: Password Field with data :: 246//Asid
+12:39:29.562 INFO  base.CustomDriver -Clicked On :: Login Button
+12:39:36.600 ERROR base.CustomDriver -Element not found with: xpath=>//a[@href='/pages/practice']
+12:39:36.603 ERROR base.CustomDriver -Cannot click on :: Practice Link
+12:39:36.603 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_39_36
+12:39:36.633 INFO  base.CheckPoint -Clearing Results Hash Map
+12:39:36.641 ERROR base.CustomDriver -Element not found with: id=>bmwcheck
+12:39:36.643 ERROR base.CustomDriver -Cannot click on :: BMW
+12:39:36.644 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_39_36
+12:39:36.657 ERROR base.CustomDriver -Element not found with: id=>bmwcheck
+12:39:36.671 INFO  base.TestListeners -onTestFailure -> Test Method Name: CheckboxBMW
+12:39:36.681 INFO  base.WebDriverFactory -OS Name from system property :: win
+12:39:36.681 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+12:39:36.681 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_39_36
+12:39:36.690 INFO  base.CheckPoint -Clearing Results Hash Map
+12:39:36.699 ERROR base.CustomDriver -Element not found with: id=>benzcheck
+12:39:36.700 ERROR base.CustomDriver -Cannot click on :: Benz
+12:39:36.700 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_39_36
+12:39:36.706 ERROR base.CustomDriver -Element not found with: id=>benzcheck
+12:39:36.707 INFO  base.TestListeners -onTestFailure -> Test Method Name: CheckboxBenz
+12:39:36.708 INFO  base.WebDriverFactory -OS Name from system property :: win
+12:39:36.708 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+12:39:36.708 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_39_36
+12:39:36.715 INFO  base.CheckPoint -Clearing Results Hash Map
+12:39:36.719 ERROR base.CustomDriver -Element not found with: id=>hondacheck
+12:39:36.719 ERROR base.CustomDriver -Cannot click on :: Honda
+12:39:36.719 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_39_36
+12:39:36.725 ERROR base.CustomDriver -Element not found with: id=>hondacheck
+12:39:36.727 INFO  base.TestListeners -onTestFailure -> Test Method Name: CheckboxHonda
+12:39:36.728 INFO  base.WebDriverFactory -OS Name from system property :: win
+12:39:36.728 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+12:39:36.728 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_39_36
+12:39:36.732 INFO  base.CheckPoint -Clearing Results Hash Map
+12:39:36.736 ERROR base.CustomDriver -Element not found with: id=>name
+12:39:36.736 ERROR base.CustomDriver -Cannot send keys on element :: Name field with data :: Kaiser N
+12:39:36.739 ERROR base.CustomDriver -Element not found with: id=>alertbtn
+12:39:36.739 ERROR base.CustomDriver -Cannot click on :: Alert Button
+12:39:36.739 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_39_36
+12:39:36.747 INFO  base.TestListeners -onTestFailure -> Test Method Name: alert
+12:39:36.748 INFO  base.WebDriverFactory -OS Name from system property :: win
+12:39:36.748 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+12:39:36.748 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_39_36
+12:39:36.751 INFO  base.CheckPoint -Clearing Results Hash Map
+12:39:36.754 ERROR base.CustomDriver -Element not found with: id=>benzradio
+12:39:36.755 ERROR base.CustomDriver -Cannot click on :: BENZ
+12:39:36.755 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_39_36
+12:39:36.760 ERROR base.CustomDriver -Element not found with: id=>benzradio
+12:39:36.762 INFO  base.TestListeners -onTestFailure -> Test Method Name: clickRadioBtnBenz
+12:39:36.762 INFO  base.WebDriverFactory -OS Name from system property :: win
+12:39:36.763 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+12:39:36.763 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_39_36
+12:39:36.766 INFO  base.CheckPoint -Clearing Results Hash Map
+12:39:36.769 ERROR base.CustomDriver -Element not found with: id=>hondaradio
+12:39:36.769 ERROR base.CustomDriver -Cannot click on :: HONDA
+12:39:36.769 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_39_36
+12:39:36.773 ERROR base.CustomDriver -Element not found with: id=>hondaradio
+12:39:36.774 INFO  base.TestListeners -onTestFailure -> Test Method Name: clickRadioBtnHonda
+12:39:36.775 INFO  base.WebDriverFactory -OS Name from system property :: win
+12:39:36.775 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+12:39:36.775 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_39_36
+12:39:36.779 INFO  base.CheckPoint -Clearing Results Hash Map
+12:39:36.782 ERROR base.CustomDriver -Element not found with: id=>bmwradio
+12:39:36.782 ERROR base.CustomDriver -Cannot click on :: BMW
+12:39:36.783 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_39_36
+12:39:36.787 ERROR base.CustomDriver -Element not found with: id=>bmwradio
+12:39:36.787 INFO  base.TestListeners -onTestFailure -> Test Method Name: clickRadioButtonBMW
+12:39:36.788 INFO  base.WebDriverFactory -OS Name from system property :: win
+12:39:36.788 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+12:39:36.788 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_39_36
+12:39:36.790 INFO  base.CheckPoint -Clearing Results Hash Map
+12:39:36.794 ERROR base.CustomDriver -Element not found with: id=>displayed-text
+12:39:36.797 ERROR base.CustomDriver -Element not found with: id=>hide-textbox
+12:39:36.797 ERROR base.CustomDriver -Cannot click on :: Hide
+12:39:36.798 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_39_36
+12:39:36.803 ERROR base.CustomDriver -Element not found with: id=>displayed-text
+12:39:36.803 INFO  base.TestListeners -onTestSuccess -> Test Method Name: hideTextBox
+12:39:36.804 INFO  base.CheckPoint -Clearing Results Hash Map
+12:39:36.807 ERROR base.CustomDriver -Element not found with: id=>mousehover
+12:39:36.811 INFO  base.TestListeners -onTestFailure -> Test Method Name: mouseHover
+12:39:36.812 INFO  base.WebDriverFactory -OS Name from system property :: win
+12:39:36.812 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+12:39:36.812 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_39_36
+12:39:36.815 INFO  base.CheckPoint -Clearing Results Hash Map
+12:39:36.818 ERROR base.CustomDriver -Element not found with: xpath=>//option[@value='apple']
+12:39:36.819 ERROR base.CustomDriver -Cannot click on :: Apple
+12:39:36.819 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_39_36
+12:39:36.824 ERROR base.CustomDriver -Element not found with: xpath=>//option[@value='apple']
+12:39:36.825 INFO  base.TestListeners -onTestFailure -> Test Method Name: multipleSelectionApple
+12:39:36.825 INFO  base.WebDriverFactory -OS Name from system property :: win
+12:39:36.825 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+12:39:36.825 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_39_36
+12:39:36.829 INFO  base.CheckPoint -Clearing Results Hash Map
+12:39:36.832 ERROR base.CustomDriver -Element not found with: xpath=>//option[@value='orange']
+12:39:36.832 ERROR base.CustomDriver -Cannot click on :: Orange
+12:39:36.832 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_39_36
+12:39:36.837 ERROR base.CustomDriver -Element not found with: xpath=>//option[@value='orange']
+12:39:36.838 INFO  base.TestListeners -onTestFailure -> Test Method Name: multipleSelectionOrange
+12:39:36.838 INFO  base.WebDriverFactory -OS Name from system property :: win
+12:39:36.838 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+12:39:36.838 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_39_36
+12:39:36.841 INFO  base.CheckPoint -Clearing Results Hash Map
+12:39:36.846 ERROR base.CustomDriver -Element not found with: xpath=>//option[@value='peach']
+12:39:36.847 ERROR base.CustomDriver -Cannot click on :: Peach
+12:39:36.847 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_39_36
+12:39:36.852 ERROR base.CustomDriver -Element not found with: xpath=>//option[@value='peach']
+12:39:36.853 INFO  base.TestListeners -onTestFailure -> Test Method Name: multipleSelectionPeach
+12:39:36.853 INFO  base.WebDriverFactory -OS Name from system property :: win
+12:39:36.853 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+12:39:36.853 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_39_36
+12:39:36.857 INFO  base.CheckPoint -Clearing Results Hash Map
+12:39:36.860 ERROR base.CustomDriver -Element not found with: id=>openwindow
+12:39:36.861 ERROR base.CustomDriver -Cannot click on :: Open Window
+12:39:36.861 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_39_36
+12:39:36.863 INFO  base.TestListeners -onTestSuccess -> Test Method Name: openWindow
+12:39:36.864 INFO  base.CheckPoint -Clearing Results Hash Map
+12:39:36.867 ERROR base.CustomDriver -Element not found with: xpath=>//option[@value='benz']
+12:39:36.867 ERROR base.CustomDriver -Cannot click on :: BENZ
+12:39:36.867 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_39_36
+12:39:36.872 ERROR base.CustomDriver -Element not found with: xpath=>//option[@value='benz']
+12:39:36.872 INFO  base.TestListeners -onTestFailure -> Test Method Name: selectDropdownBenz
+12:39:36.873 INFO  base.WebDriverFactory -OS Name from system property :: win
+12:39:36.873 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+12:39:36.873 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_39_36
+12:39:36.876 INFO  base.CheckPoint -Clearing Results Hash Map
+12:39:36.880 ERROR base.CustomDriver -Element not found with: xpath=>//option[@value='bmw']
+12:39:36.880 ERROR base.CustomDriver -Cannot click on :: BMW
+12:39:36.880 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_39_36
+12:39:36.885 ERROR base.CustomDriver -Element not found with: xpath=>//option[@value='bmw']
+12:39:36.886 INFO  base.TestListeners -onTestFailure -> Test Method Name: selectDropdownBmw
+12:39:36.887 INFO  base.WebDriverFactory -OS Name from system property :: win
+12:39:36.887 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+12:39:36.887 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_39_36
+12:39:36.890 INFO  base.CheckPoint -Clearing Results Hash Map
+12:39:36.894 ERROR base.CustomDriver -Element not found with: xpath=>//option[@value='honda']
+12:39:36.894 ERROR base.CustomDriver -Cannot click on :: Honda
+12:39:36.895 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_39_36
+12:39:36.908 ERROR base.CustomDriver -Element not found with: xpath=>//option[@value='honda']
+12:39:36.909 INFO  base.TestListeners -onTestFailure -> Test Method Name: selectDropdownHonda
+12:39:36.910 INFO  base.WebDriverFactory -OS Name from system property :: win
+12:39:36.910 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+12:39:36.910 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_39_36
+12:39:36.913 INFO  base.CheckPoint -Clearing Results Hash Map
+12:39:36.917 ERROR base.CustomDriver -Element not found with: id=>show-textbox
+12:39:36.917 ERROR base.CustomDriver -Cannot click on :: Show
+12:39:36.917 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_39_36
+12:39:36.922 ERROR base.CustomDriver -Element not found with: id=>displayed-text
+12:39:36.925 ERROR base.CustomDriver -Element not found with: id=>displayed-text
+12:39:36.926 INFO  base.TestListeners -onTestFailure -> Test Method Name: showTextBox
+12:39:36.926 INFO  base.WebDriverFactory -OS Name from system property :: win
+12:39:36.926 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+12:39:36.927 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_39_36
+12:39:36.928 INFO  base.CheckPoint -Clearing Results Hash Map
+12:39:36.930 INFO  base.TestListeners -onTestFailure -> Test Method Name: switchWindow
+12:39:36.932 INFO  base.WebDriverFactory -OS Name from system property :: win
+12:39:36.932 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+12:39:36.932 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_39_36
+12:39:36.934 INFO  base.CheckPoint -Clearing Results Hash Map
+12:39:36.937 ERROR base.CustomDriver -Element List not found with: xpath=>//table[@class='table-display']//tbody/tr
+12:39:36.937 INFO  base.TestListeners -onTestFailure -> Test Method Name: tableText
+12:39:36.938 INFO  base.WebDriverFactory -OS Name from system property :: win
+12:39:36.938 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+12:39:36.938 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_39_36
+12:39:36.940 INFO  base.CheckPoint -Clearing Results Hash Map
+12:39:36.943 ERROR base.CustomDriver -Element not found with: xpath=>//a[@href='/pages/practice']
+12:39:36.944 INFO  base.TestListeners -onTestFailure -> Test Method Name: verifyTitle
+12:39:36.945 INFO  base.WebDriverFactory -OS Name from system property :: win
+12:39:36.945 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+12:39:36.945 INFO  utilities.Util -Current Date and Time :: 05_29_2020 12_39_36
+12:39:36.948 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test

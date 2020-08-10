@@ -1,0 +1,143 @@
+17:47:55.531 INFO  overview.LoggingDemo -Info Message Printed
+17:47:55.539 ERROR overview.LoggingDemo -Error Message Printed
+17:47:55.539 FATAL overview.LoggingDemo -Fatal Message Printed
+18:21:37.953 INFO  base.WebDriverFactory -OS Name from system property :: win
+18:21:37.957 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+18:21:47.869 INFO  base.CustomDriver -Clicked On :: Login Link
+18:21:51.849 INFO  base.CustomDriver -Send Keys on element :: Email Field with data :: asidcam@gmail.com
+18:21:51.939 INFO  base.CustomDriver -Send Keys on element :: Password Field with data :: 246//Asid
+18:21:55.921 INFO  base.CustomDriver -Clicked On :: Login Button
+18:21:56.311 INFO  base.CheckPoint -Clearing Results Hash Map
+18:21:56.370 INFO  base.CustomDriver -Clicked On :: All Courses Link
+18:21:56.735 INFO  base.CustomDriver -Send Keys on element :: Search Course field with data :: rest api
+18:21:56.787 INFO  base.CustomDriver -Clicked On :: Search Course Button
+18:21:57.650 INFO  base.CustomDriver -Element List found with: xpath=>//div[@class='course-listing']
+18:21:57.659 INFO  base.CheckPoint -Clearing Results Hash Map
+18:21:57.708 INFO  base.CustomDriver -Clicked On :: All Courses Link
+18:21:57.826 INFO  base.CustomDriver -Send Keys on element :: Search Course field with data :: javascript
+18:21:58.948 INFO  base.CustomDriver -Clicked On :: Search Course Button
+18:21:59.108 INFO  base.CustomDriver -Element List found with: xpath=>//div[@class='course-listing']
+18:25:16.060 INFO  base.WebDriverFactory -OS Name from system property :: win
+18:25:16.064 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+18:25:23.534 INFO  base.CustomDriver -Clicked On :: Login Link
+18:25:26.090 INFO  base.CustomDriver -Send Keys on element :: Email Field with data :: asidcam@gmail.com
+18:25:26.171 INFO  base.CustomDriver -Send Keys on element :: Password Field with data :: 246//Asid
+18:25:29.320 INFO  base.CustomDriver -Clicked On :: Login Button
+18:25:29.703 INFO  base.CheckPoint -Clearing Results Hash Map
+18:25:29.754 INFO  base.CustomDriver -Clicked On :: All Courses Link
+18:25:30.141 INFO  base.CustomDriver -Send Keys on element :: Search Course field with data :: rest api
+18:25:31.073 INFO  base.CustomDriver -Clicked On :: Search Course Button
+18:25:31.087 INFO  base.CustomDriver -Element List found with: xpath=>//div[@class='course-listing']
+18:25:31.094 INFO  base.CheckPoint -Clearing Results Hash Map
+18:25:31.139 INFO  base.CustomDriver -Clicked On :: All Courses Link
+18:25:31.248 INFO  base.CustomDriver -Send Keys on element :: Search Course field with data :: javascript
+18:25:32.255 INFO  base.CustomDriver -Clicked On :: Search Course Button
+18:25:32.263 INFO  base.CustomDriver -Element List found with: xpath=>//div[@class='course-listing']
+18:28:39.089 INFO  base.WebDriverFactory -OS Name from system property :: win
+18:28:39.093 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+18:28:46.605 INFO  base.CustomDriver -Clicked On :: Login Link
+18:28:49.315 INFO  base.CustomDriver -Send Keys on element :: Email Field with data :: asidcam@gmail.com
+18:28:49.396 INFO  base.CustomDriver -Send Keys on element :: Password Field with data :: 246//Asid
+18:28:52.814 INFO  base.CustomDriver -Clicked On :: Login Button
+18:28:53.191 INFO  base.CheckPoint -Clearing Results Hash Map
+18:28:53.363 INFO  base.CustomDriver -Clicked On :: All Courses Link
+18:28:53.519 INFO  base.CustomDriver -Send Keys on element :: Search Course field with data :: rest api
+18:28:54.180 INFO  base.CustomDriver -Clicked On :: Search Course Button
+18:28:54.194 INFO  base.CustomDriver -Element List found with: xpath=>//div[@class='course-listing']
+18:28:54.203 INFO  base.CheckPoint -Clearing Results Hash Map
+18:28:54.252 INFO  base.CustomDriver -Clicked On :: All Courses Link
+18:28:54.357 INFO  base.CustomDriver -Send Keys on element :: Search Course field with data :: javascript
+18:28:55.582 INFO  base.CustomDriver -Clicked On :: Search Course Button
+18:28:55.591 INFO  base.CustomDriver -Element List found with: xpath=>//div[@class='course-listing']
+18:56:04.867 INFO  base.WebDriverFactory -OS Name from system property :: win
+18:56:04.871 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+18:56:12.514 INFO  base.CustomDriver -Clicked On :: Login Link
+18:56:15.162 INFO  base.CustomDriver -Send Keys on element :: Email Field with data :: asidcam@gmail.com
+18:56:15.248 INFO  base.CustomDriver -Send Keys on element :: Password Field with data :: 246//Asid
+18:56:19.599 INFO  base.CustomDriver -Clicked On :: Login Button
+18:56:19.979 INFO  base.CheckPoint -Clearing Results Hash Map
+18:56:20.030 INFO  base.CustomDriver -Clicked On :: All Courses Link
+18:56:20.377 INFO  base.CustomDriver -Send Keys on element :: Search Course field with data :: rest api
+18:56:20.443 INFO  base.CustomDriver -Clicked On :: Search Course Button
+18:56:21.148 INFO  base.CustomDriver -Element List found with: xpath=>//div[@class='course-listing']
+18:56:21.156 INFO  base.CheckPoint -Clearing Results Hash Map
+18:56:21.203 INFO  base.CustomDriver -Clicked On :: All Courses Link
+18:56:21.311 INFO  base.CustomDriver -Send Keys on element :: Search Course field with data :: javascript
+18:56:22.042 INFO  base.CustomDriver -Clicked On :: Search Course Button
+18:56:22.051 INFO  base.CustomDriver -Element List found with: xpath=>//div[@class='course-listing']
+18:59:22.668 INFO  base.WebDriverFactory -OS Name from system property :: win
+18:59:22.672 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+18:59:31.483 INFO  base.CustomDriver -Clicked On :: Login Link
+18:59:34.272 INFO  base.CustomDriver -Send Keys on element :: Email Field with data :: asidcam@gmail.com
+18:59:34.356 INFO  base.CustomDriver -Send Keys on element :: Password Field with data :: 246//Asid
+18:59:38.823 INFO  base.CustomDriver -Clicked On :: Login Button
+18:59:39.205 INFO  base.CheckPoint -Clearing Results Hash Map
+18:59:39.255 INFO  base.CustomDriver -Clicked On :: All Courses Link
+18:59:39.588 INFO  base.CustomDriver -Send Keys on element :: Search Course field with data :: rest api
+18:59:39.645 INFO  base.CustomDriver -Clicked On :: Search Course Button
+18:59:40.647 INFO  base.CustomDriver -Element List found with: xpath=>//div[@class='course-listing']
+18:59:40.656 INFO  base.CheckPoint -Clearing Results Hash Map
+18:59:40.707 INFO  base.CustomDriver -Clicked On :: All Courses Link
+18:59:40.823 INFO  base.CustomDriver -Send Keys on element :: Search Course field with data :: javascript
+18:59:41.977 INFO  base.CustomDriver -Clicked On :: Search Course Button
+18:59:41.986 INFO  base.CustomDriver -Element List found with: xpath=>//div[@class='course-listing']
+21:33:32.852 INFO  utilities.Util -Current Date and Time :: 05_02_2020 21_33_32
+21:33:32.857 INFO  utilities.ExtentManager -*********** Report Path ***********
+21:33:32.857 INFO  utilities.ExtentManager -C:\Users\cheap\workspace\letskodeit//reports//AutomationReport_05_02_2020 21_33_32.html
+21:33:32.857 INFO  utilities.ExtentManager -*********** Report Path ***********
+21:33:33.023 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+21:33:33.023 INFO  base.TestListeners -These methods will be executed in this <test> tag
+21:33:33.023 INFO  base.TestListeners -verifySearchCourse
+21:33:33.023 INFO  base.TestListeners -testLogin
+21:33:33.043 INFO  base.WebDriverFactory -OS Name from system property :: win
+21:33:33.044 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+21:33:44.781 INFO  base.CustomDriver -Clicked On :: Login Link
+21:33:44.788 INFO  base.CheckPoint -Clearing Results Hash Map
+21:33:47.387 INFO  base.CustomDriver -Send Keys on element :: Email Field with data :: asidcam@gmail.com
+21:33:47.471 INFO  base.CustomDriver -Send Keys on element :: Password Field with data :: 246//Asid
+21:33:50.585 INFO  base.CustomDriver -Clicked On :: Login Button
+21:33:50.608 ERROR utilities.Util -Actual Text From Web Application UI   --> : All Courses
+21:33:50.608 ERROR utilities.Util -Expected Text From Web Application UI --> : All Coursessss
+21:33:50.608 ERROR utilities.Util -### Verification DOES NOT Contains !!!
+21:33:50.608 INFO  base.CheckPoint -test-01.header verification :-> FAIL
+21:33:50.621 INFO  base.CustomDriver -Element List found with: class=>gravatar
+21:33:50.621 INFO  utilities.Util -Size of list :: 1
+21:33:50.621 INFO  utilities.Util -List is not empty
+21:33:50.621 INFO  base.CheckPoint -test-01.login verification :-> PASS
+21:33:50.621 INFO  base.CheckPoint -Test Method Failed
+21:33:50.627 INFO  base.TestListeners -onTestFailure -> Test Method Name: testLogin
+21:33:50.630 INFO  base.WebDriverFactory -OS Name from system property :: win
+21:33:50.631 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+21:33:50.631 INFO  utilities.Util -Current Date and Time :: 05_02_2020 21_33_50
+21:33:51.341 INFO  base.CustomDriver -Screen Shot Was Stored at: C:\Users\cheap\workspace\letskodeit//test-output/screenshots//chrome_testLogin_05_02_2020 21_33_50.png
+21:33:51.352 INFO  base.CustomDriver -Element List found with: class=>gravatar
+21:33:51.352 INFO  utilities.Util -Size of list :: 1
+21:33:51.352 INFO  utilities.Util -List is not empty
+21:33:51.397 INFO  base.CustomDriver -Clicked On :: User Account Icon
+21:33:51.404 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+21:33:51.444 INFO  base.CustomDriver -Element appeared on the web page
+21:33:52.862 INFO  base.CustomDriver -Clicked on :: Logout Link
+21:33:52.927 INFO  base.CustomDriver -Clicked On :: Login Link
+21:33:53.560 INFO  base.WebDriverFactory -OS Name from system property :: win
+21:33:53.560 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+21:34:03.428 INFO  base.CustomDriver -Clicked On :: Login Link
+21:34:05.872 INFO  base.CustomDriver -Send Keys on element :: Email Field with data :: asidcam@gmail.com
+21:34:05.957 INFO  base.CustomDriver -Send Keys on element :: Password Field with data :: 246//Asid
+21:34:09.204 INFO  base.CustomDriver -Clicked On :: Login Button
+21:34:09.604 INFO  base.CheckPoint -Clearing Results Hash Map
+21:34:09.654 INFO  base.CustomDriver -Clicked On :: All Courses Link
+21:34:10.000 INFO  base.CustomDriver -Send Keys on element :: Search Course field with data :: rest api
+21:34:10.995 INFO  base.CustomDriver -Clicked On :: Search Course Button
+21:34:11.007 INFO  base.CustomDriver -Element List found with: xpath=>//div[@class='course-listing']
+21:34:11.011 INFO  base.CheckPoint -test-02.search course verification :-> PASS
+21:34:11.011 INFO  base.CheckPoint -Test Method Successful
+21:34:11.012 INFO  base.TestListeners -onTestSuccess -> Test Method Name: verifySearchCourse
+21:34:11.013 INFO  base.CheckPoint -Clearing Results Hash Map
+21:34:11.057 INFO  base.CustomDriver -Clicked On :: All Courses Link
+21:34:11.166 INFO  base.CustomDriver -Send Keys on element :: Search Course field with data :: javascript
+21:34:13.617 INFO  base.CustomDriver -Clicked On :: Search Course Button
+21:34:13.625 INFO  base.CustomDriver -Element List found with: xpath=>//div[@class='course-listing']
+21:34:13.629 INFO  base.CheckPoint -test-02.search course verification :-> PASS
+21:34:13.629 INFO  base.CheckPoint -Test Method Successful
+21:34:13.629 INFO  base.TestListeners -onTestSuccess -> Test Method Name: verifySearchCourse
+21:34:14.268 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test

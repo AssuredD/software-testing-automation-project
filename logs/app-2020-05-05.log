@@ -1,0 +1,33 @@
+18:00:58.873 INFO  utilities.Util -Current Date and Time :: 05_05_2020 18_00_58
+18:00:58.882 INFO  utilities.ExtentManager -*********** Report Path ***********
+18:00:58.883 INFO  utilities.ExtentManager -C:\Users\cheap\workspace\letskodeit/reports/AutomationReport_05_05_2020 18_00_58.html
+18:00:58.883 INFO  utilities.ExtentManager -*********** Report Path ***********
+18:00:59.059 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+18:00:59.059 INFO  base.TestListeners -These methods will be executed in this <test> tag
+18:00:59.059 INFO  base.TestListeners -testInvalidLogin
+18:00:59.084 INFO  base.WebDriverFactory -OS Name from system property :: win
+18:00:59.084 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+18:01:09.637 INFO  base.CustomDriver -Clicked On :: Login Link
+18:01:10.125 INFO  base.CheckPoint -Clearing Results Hash Map
+18:01:13.420 INFO  base.CustomDriver -Send Keys on element :: Email Field with data :: asidcam@gmail.com
+18:01:13.518 INFO  base.CustomDriver -Send Keys on element :: Password Field with data :: abcabc
+18:01:15.021 INFO  base.CustomDriver -Clicked On :: Login Button
+18:01:25.126 INFO  base.CustomDriver -Element List not found with: class=>gravatar
+18:01:25.127 INFO  utilities.Util -Size of list :: 0
+18:01:25.127 ERROR utilities.Util -List is empty
+18:01:25.129 INFO  base.TestListeners -onTestSuccess -> Test Method Name: testInvalidLogin
+18:01:35.173 INFO  base.CustomDriver -Element List not found with: class=>gravatar
+18:01:35.173 INFO  utilities.Util -Size of list :: 0
+18:01:35.173 ERROR utilities.Util -List is empty
+18:01:35.174 INFO  base.CheckPoint -Clearing Results Hash Map
+18:01:35.351 INFO  base.CustomDriver -Send Keys on element :: Email Field with data :: asidcam@email.com
+18:01:35.432 INFO  base.CustomDriver -Send Keys on element :: Password Field with data :: 246//Asid
+18:01:36.662 INFO  base.CustomDriver -Clicked On :: Login Button
+18:01:46.720 INFO  base.CustomDriver -Element List not found with: class=>gravatar
+18:01:46.720 INFO  utilities.Util -Size of list :: 0
+18:01:46.720 ERROR utilities.Util -List is empty
+18:01:46.720 INFO  base.TestListeners -onTestSuccess -> Test Method Name: testInvalidLogin
+18:01:48.896 INFO  base.CustomDriver -Element List not found with: class=>gravatar
+18:01:48.896 INFO  utilities.Util -Size of list :: 0
+18:01:48.897 ERROR utilities.Util -List is empty
+18:01:49.515 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test

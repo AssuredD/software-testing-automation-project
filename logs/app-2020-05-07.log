@@ -1,0 +1,256 @@
+19:12:46.586 INFO  utilities.Util -Current Date and Time :: 05_07_2020 19_12_46
+19:12:46.596 INFO  utilities.ExtentManager -*********** Report Path ***********
+19:12:46.596 INFO  utilities.ExtentManager -C:\Users\cheap\workspace\letskodeit/reports/AutomationReport_05_07_2020 19_12_46.html
+19:12:46.596 INFO  utilities.ExtentManager -*********** Report Path ***********
+19:12:46.787 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+19:12:46.787 INFO  base.TestListeners -These methods will be executed in this <test> tag
+19:12:46.787 INFO  base.TestListeners -filterByCategory
+19:12:46.787 INFO  base.TestListeners -verifySearchCourse
+19:12:46.788 INFO  base.TestListeners -testInvalidLogin
+19:12:46.788 INFO  base.TestListeners -testLogin
+19:12:46.788 INFO  base.TestListeners -getText
+19:12:46.808 INFO  base.WebDriverFactory -OS Name from system property :: win
+19:12:46.808 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+19:12:54.764 INFO  base.CustomDriver -Clicked On :: Login Link
+19:12:55.246 INFO  base.CheckPoint -Clearing Results Hash Map
+19:12:57.493 INFO  base.CustomDriver -Send Keys on element :: Email Field with data :: asidcam@gmail.com
+19:12:57.568 INFO  base.CustomDriver -Send Keys on element :: Password Field with data :: abcabc
+19:12:59.615 INFO  base.CustomDriver -Clicked On :: Login Button
+19:13:09.637 INFO  base.CustomDriver -Element List not found with: class=>gravatar
+19:13:09.637 INFO  utilities.Util -Size of list :: 0
+19:13:09.637 ERROR utilities.Util -List is empty
+19:13:09.640 INFO  base.TestListeners -onTestSuccess -> Test Method Name: testInvalidLogin
+19:13:19.651 INFO  base.CustomDriver -Element List not found with: class=>gravatar
+19:13:19.651 INFO  utilities.Util -Size of list :: 0
+19:13:19.651 ERROR utilities.Util -List is empty
+19:13:19.652 INFO  base.CheckPoint -Clearing Results Hash Map
+19:13:19.816 INFO  base.CustomDriver -Send Keys on element :: Email Field with data :: asidcam@email.com
+19:13:19.903 INFO  base.CustomDriver -Send Keys on element :: Password Field with data :: 246//Asid
+19:13:21.336 INFO  base.CustomDriver -Clicked On :: Login Button
+19:13:31.412 INFO  base.CustomDriver -Element List not found with: class=>gravatar
+19:13:31.413 INFO  utilities.Util -Size of list :: 0
+19:13:31.413 ERROR utilities.Util -List is empty
+19:13:31.414 INFO  base.TestListeners -onTestSuccess -> Test Method Name: testInvalidLogin
+19:13:41.483 INFO  base.CustomDriver -Element List not found with: class=>gravatar
+19:13:41.483 INFO  utilities.Util -Size of list :: 0
+19:13:41.484 ERROR utilities.Util -List is empty
+19:13:41.486 INFO  base.CheckPoint -Clearing Results Hash Map
+19:13:41.661 INFO  base.CustomDriver -Send Keys on element :: Email Field with data :: asidcam@gmail.com
+19:13:41.744 INFO  base.CustomDriver -Send Keys on element :: Password Field with data :: 246//Asid
+19:13:45.786 INFO  base.CustomDriver -Clicked On :: Login Button
+19:13:45.833 ERROR utilities.Util -Actual Text From Web Application UI   --> : All Courses
+19:13:45.833 ERROR utilities.Util -Expected Text From Web Application UI --> : All Coursessss
+19:13:45.833 ERROR utilities.Util -### Verification DOES NOT Contains !!!
+19:13:45.833 INFO  base.CheckPoint -test-01.header verification :-> FAIL
+19:13:45.844 INFO  base.CustomDriver -Element List found with: class=>gravatar
+19:13:45.844 INFO  utilities.Util -Size of list :: 1
+19:13:45.844 INFO  utilities.Util -List is not empty
+19:13:45.844 INFO  base.CheckPoint -test-01.login verification :-> PASS
+19:13:45.844 INFO  base.CheckPoint -Test Method Failed
+19:13:45.845 INFO  base.TestListeners -onTestFailure -> Test Method Name: testLogin
+19:13:45.846 INFO  base.WebDriverFactory -OS Name from system property :: win
+19:13:45.846 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+19:13:45.846 INFO  utilities.Util -Current Date and Time :: 05_07_2020 19_13_45
+19:13:46.622 INFO  base.CustomDriver -Screen Shot Was Stored at: C:\Users\cheap\workspace\letskodeit/screenshots/chrome_testLogin_05_07_2020 19_13_45.png
+19:13:46.635 INFO  base.CustomDriver -Element List found with: class=>gravatar
+19:13:46.635 INFO  utilities.Util -Size of list :: 1
+19:13:46.635 INFO  utilities.Util -List is not empty
+19:13:46.683 INFO  base.CustomDriver -Clicked On :: User Account Icon
+19:13:46.686 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+19:13:46.727 INFO  base.CustomDriver -Element appeared on the web page
+19:13:48.355 INFO  base.CustomDriver -Clicked on :: Logout Link
+19:13:48.432 INFO  base.CustomDriver -Clicked On :: Login Link
+19:13:48.435 INFO  base.WebDriverFactory -OS Name from system property :: win
+19:13:48.435 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+19:13:49.325 INFO  base.CustomDriver -Clicked On :: Login Link
+19:13:51.300 INFO  base.CustomDriver -Send Keys on element :: Email Field with data :: asidcam@gmail.com
+19:13:51.588 INFO  base.CustomDriver -Send Keys on element :: Password Field with data :: 246//Asid
+19:13:53.259 INFO  base.CustomDriver -Clicked On :: Login Button
+19:13:53.281 INFO  base.CheckPoint -Clearing Results Hash Map
+19:13:56.335 ERROR base.CustomDriver -Element not found with: xpath=>//a[contains(text(),'All Courses')]
+19:13:56.336 ERROR base.CustomDriver -Cannot click on :: All Courses Link
+19:13:56.336 INFO  utilities.Util -Current Date and Time :: 05_07_2020 19_13_56
+19:13:56.866 INFO  base.CustomDriver -Screen Shot Was Stored at: C:\Users\cheap\workspace\letskodeit/screenshots/_Click ERROR_05_07_2020 19_13_56.png
+19:13:59.878 ERROR base.CustomDriver -Element not found with: xpath=>//div[contains(@class,'pull-left course-filter')][1]//button
+19:13:59.881 ERROR base.CustomDriver -Cannot click on :: Category Dropdown
+19:13:59.882 INFO  utilities.Util -Current Date and Time :: 05_07_2020 19_13_59
+19:14:00.348 INFO  base.CustomDriver -Screen Shot Was Stored at: C:\Users\cheap\workspace\letskodeit/screenshots/_Click ERROR_05_07_2020 19_13_59.png
+19:14:00.350 INFO  base.CustomDriver -Waiting for max:: 15 seconds for element to be clickable
+19:14:15.762 ERROR base.CustomDriver -Element not appeared on the web page
+19:14:15.772 ERROR base.CustomDriver -Cannot click on :: Category Option
+19:14:18.788 ERROR base.CustomDriver -Element not found with: xpath=>//div[contains(@class,'pull-left course-filter')][1]//button
+19:14:18.789 ERROR base.CustomDriver -Cannot click on :: Category Dropdown
+19:14:18.789 INFO  utilities.Util -Current Date and Time :: 05_07_2020 19_14_18
+19:14:19.342 INFO  base.CustomDriver -Screen Shot Was Stored at: C:\Users\cheap\workspace\letskodeit/screenshots/_Click ERROR_05_07_2020 19_14_18.png
+19:14:19.345 INFO  base.CustomDriver -Waiting for max:: 15 seconds for element to be clickable
+19:14:34.782 ERROR base.CustomDriver -Element not appeared on the web page
+19:14:34.785 INFO  base.TestListeners -onTestFailure -> Test Method Name: filterByCategory
+19:14:34.785 INFO  base.WebDriverFactory -OS Name from system property :: win
+19:14:34.786 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+19:14:34.786 INFO  utilities.Util -Current Date and Time :: 05_07_2020 19_14_34
+19:14:35.270 INFO  base.CustomDriver -Screen Shot Was Stored at: C:\Users\cheap\workspace\letskodeit/screenshots/chrome_filterByCategory_05_07_2020 19_14_34.png
+19:14:35.274 INFO  base.CheckPoint -Clearing Results Hash Map
+19:14:38.327 ERROR base.CustomDriver -Element not found with: xpath=>//a[contains(text(),'All Courses')]
+19:14:38.328 ERROR base.CustomDriver -Cannot click on :: All Courses Link
+19:14:38.328 INFO  utilities.Util -Current Date and Time :: 05_07_2020 19_14_38
+19:14:38.783 INFO  base.CustomDriver -Screen Shot Was Stored at: C:\Users\cheap\workspace\letskodeit/screenshots/_Click ERROR_05_07_2020 19_14_38.png
+19:14:41.833 ERROR base.CustomDriver -Element not found with: id=>search-courses
+19:14:41.836 ERROR base.CustomDriver -Cannot send keys on element :: Search Course field with data :: rest api
+19:14:44.876 ERROR base.CustomDriver -Element not found with: id=>search-course-button
+19:14:44.877 ERROR base.CustomDriver -Cannot click on :: Search Course Button
+19:14:44.877 INFO  utilities.Util -Current Date and Time :: 05_07_2020 19_14_44
+19:14:45.336 INFO  base.CustomDriver -Screen Shot Was Stored at: C:\Users\cheap\workspace\letskodeit/screenshots/_Click ERROR_05_07_2020 19_14_44.png
+19:14:48.377 INFO  base.CustomDriver -Element List not found with: xpath=>//div[@class='course-listing']
+19:14:48.381 INFO  base.CheckPoint -test-02.search course verification :-> FAIL
+19:14:48.381 INFO  base.CheckPoint -Test Method Failed
+19:14:48.381 INFO  base.TestListeners -onTestFailure -> Test Method Name: verifySearchCourse
+19:14:48.381 INFO  base.WebDriverFactory -OS Name from system property :: win
+19:14:48.381 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+19:14:48.381 INFO  utilities.Util -Current Date and Time :: 05_07_2020 19_14_48
+19:14:48.854 INFO  base.CustomDriver -Screen Shot Was Stored at: C:\Users\cheap\workspace\letskodeit/screenshots/chrome_verifySearchCourse_05_07_2020 19_14_48.png
+19:14:48.855 INFO  base.CheckPoint -Clearing Results Hash Map
+19:14:51.878 ERROR base.CustomDriver -Element not found with: xpath=>//a[contains(text(),'All Courses')]
+19:14:51.880 ERROR base.CustomDriver -Cannot click on :: All Courses Link
+19:14:51.881 INFO  utilities.Util -Current Date and Time :: 05_07_2020 19_14_51
+19:14:52.363 INFO  base.CustomDriver -Screen Shot Was Stored at: C:\Users\cheap\workspace\letskodeit/screenshots/_Click ERROR_05_07_2020 19_14_51.png
+19:14:55.378 ERROR base.CustomDriver -Element not found with: id=>search-courses
+19:14:55.380 ERROR base.CustomDriver -Cannot send keys on element :: Search Course field with data :: javascript
+19:14:58.426 ERROR base.CustomDriver -Element not found with: id=>search-course-button
+19:14:58.427 ERROR base.CustomDriver -Cannot click on :: Search Course Button
+19:14:58.427 INFO  utilities.Util -Current Date and Time :: 05_07_2020 19_14_58
+19:14:58.884 INFO  base.CustomDriver -Screen Shot Was Stored at: C:\Users\cheap\workspace\letskodeit/screenshots/_Click ERROR_05_07_2020 19_14_58.png
+19:15:01.929 INFO  base.CustomDriver -Element List not found with: xpath=>//div[@class='course-listing']
+19:15:01.932 INFO  base.CheckPoint -test-02.search course verification :-> FAIL
+19:15:01.933 INFO  base.CheckPoint -Test Method Failed
+19:15:01.933 INFO  base.TestListeners -onTestFailure -> Test Method Name: verifySearchCourse
+19:15:01.933 INFO  base.WebDriverFactory -OS Name from system property :: win
+19:15:01.933 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+19:15:01.933 INFO  utilities.Util -Current Date and Time :: 05_07_2020 19_15_01
+19:15:02.483 INFO  base.CustomDriver -Screen Shot Was Stored at: C:\Users\cheap\workspace\letskodeit/screenshots/chrome_verifySearchCourse_05_07_2020 19_15_01.png
+19:15:02.485 INFO  base.WebDriverFactory -OS Name from system property :: win
+19:15:02.485 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+19:15:03.826 INFO  base.CustomDriver -Clicked On :: Login Link
+19:15:05.982 INFO  base.CustomDriver -Send Keys on element :: Email Field with data :: asidcam@gmail.com
+19:15:06.067 INFO  base.CustomDriver -Send Keys on element :: Password Field with data :: 246//Asid
+19:15:09.476 INFO  base.CustomDriver -Clicked On :: Login Button
+19:15:09.476 INFO  base.CheckPoint -Clearing Results Hash Map
+19:15:09.537 INFO  base.CustomDriver -Clicked On :: Practice Link
+19:15:10.769 INFO  base.TestListeners -onTestSuccess -> Test Method Name: getText
+19:15:10.769 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test
+20:27:01.260 INFO  utilities.Util -Current Date and Time :: 05_07_2020 20_27_01
+20:27:01.265 INFO  utilities.ExtentManager -*********** Report Path ***********
+20:27:01.265 INFO  utilities.ExtentManager -C:\Users\cheap\workspace\letskodeit/reports/AutomationReport_05_07_2020 20_27_01.html
+20:27:01.265 INFO  utilities.ExtentManager -*********** Report Path ***********
+20:27:01.415 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+20:27:01.415 INFO  base.TestListeners -These methods will be executed in this <test> tag
+20:27:01.416 INFO  base.TestListeners -filterByCategory
+20:27:01.416 INFO  base.TestListeners -verifySearchCourse
+20:27:01.416 INFO  base.TestListeners -testInvalidLogin
+20:27:01.416 INFO  base.TestListeners -testLogin
+20:27:01.416 INFO  base.TestListeners -getText
+20:27:01.435 INFO  base.WebDriverFactory -OS Name from system property :: win
+20:27:01.435 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+20:27:09.196 INFO  base.CustomDriver -Clicked On :: Login Link
+20:27:09.596 INFO  base.CheckPoint -Clearing Results Hash Map
+20:27:11.952 INFO  base.CustomDriver -Send Keys on element :: Email Field with data :: asidcam@gmail.com
+20:27:12.028 INFO  base.CustomDriver -Send Keys on element :: Password Field with data :: abcabc
+20:27:13.604 INFO  base.CustomDriver -Clicked On :: Login Button
+20:27:23.698 INFO  base.CustomDriver -Element List not found with: class=>gravatar
+20:27:23.698 INFO  utilities.Util -Size of list :: 0
+20:27:23.698 ERROR utilities.Util -List is empty
+20:27:23.706 INFO  base.TestListeners -onTestSuccess -> Test Method Name: testInvalidLogin
+20:27:33.746 INFO  base.CustomDriver -Element List not found with: class=>gravatar
+20:27:33.746 INFO  utilities.Util -Size of list :: 0
+20:27:33.746 ERROR utilities.Util -List is empty
+20:27:33.747 INFO  base.CheckPoint -Clearing Results Hash Map
+20:27:33.913 INFO  base.CustomDriver -Send Keys on element :: Email Field with data :: asidcam@email.com
+20:27:34.001 INFO  base.CustomDriver -Send Keys on element :: Password Field with data :: 246//Asid
+20:27:35.165 INFO  base.CustomDriver -Clicked On :: Login Button
+20:27:45.301 INFO  base.CustomDriver -Element List not found with: class=>gravatar
+20:27:45.301 INFO  utilities.Util -Size of list :: 0
+20:27:45.302 ERROR utilities.Util -List is empty
+20:27:45.302 INFO  base.TestListeners -onTestSuccess -> Test Method Name: testInvalidLogin
+20:27:55.339 INFO  base.CustomDriver -Element List not found with: class=>gravatar
+20:27:55.340 INFO  utilities.Util -Size of list :: 0
+20:27:55.340 ERROR utilities.Util -List is empty
+20:27:55.342 INFO  base.CheckPoint -Clearing Results Hash Map
+20:27:55.518 INFO  base.CustomDriver -Send Keys on element :: Email Field with data :: asidcam@gmail.com
+20:27:55.599 INFO  base.CustomDriver -Send Keys on element :: Password Field with data :: 246//Asid
+20:27:58.981 INFO  base.CustomDriver -Clicked On :: Login Button
+20:27:59.019 ERROR utilities.Util -Actual Text From Web Application UI   --> : All Courses
+20:27:59.019 ERROR utilities.Util -Expected Text From Web Application UI --> : All Coursessss
+20:27:59.019 ERROR utilities.Util -### Verification DOES NOT Contains !!!
+20:27:59.019 INFO  base.CheckPoint -test-01.header verification :-> FAIL
+20:27:59.030 INFO  base.CustomDriver -Element List found with: class=>gravatar
+20:27:59.030 INFO  utilities.Util -Size of list :: 1
+20:27:59.030 INFO  utilities.Util -List is not empty
+20:27:59.030 INFO  base.CheckPoint -test-01.login verification :-> PASS
+20:27:59.030 INFO  base.CheckPoint -Test Method Failed
+20:27:59.031 INFO  base.TestListeners -onTestFailure -> Test Method Name: testLogin
+20:27:59.031 INFO  base.WebDriverFactory -OS Name from system property :: win
+20:27:59.031 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+20:27:59.031 INFO  utilities.Util -Current Date and Time :: 05_07_2020 20_27_59
+20:27:59.799 INFO  base.CustomDriver -Screen Shot Was Stored at: C:\Users\cheap\workspace\letskodeit/screenshots/chrome_testLogin_05_07_2020 20_27_59.png
+20:27:59.812 INFO  base.CustomDriver -Element List found with: class=>gravatar
+20:27:59.812 INFO  utilities.Util -Size of list :: 1
+20:27:59.812 INFO  utilities.Util -List is not empty
+20:27:59.912 INFO  base.CustomDriver -Clicked On :: User Account Icon
+20:27:59.915 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+20:27:59.953 INFO  base.CustomDriver -Element appeared on the web page
+20:28:01.819 INFO  base.CustomDriver -Clicked on :: Logout Link
+20:28:01.891 INFO  base.CustomDriver -Clicked On :: Login Link
+20:28:01.895 INFO  base.WebDriverFactory -OS Name from system property :: win
+20:28:01.895 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+20:28:02.769 INFO  base.CustomDriver -Clicked On :: Login Link
+20:28:04.509 INFO  base.CustomDriver -Send Keys on element :: Email Field with data :: asidcam@gmail.com
+20:28:04.606 INFO  base.CustomDriver -Send Keys on element :: Password Field with data :: 246//Asid
+20:28:07.500 INFO  base.CustomDriver -Clicked On :: Login Button
+20:28:07.527 INFO  base.CheckPoint -Clearing Results Hash Map
+20:28:07.582 INFO  base.CustomDriver -Clicked On :: All Courses Link
+20:28:07.630 INFO  base.CustomDriver -Clicked On :: Category Dropdown
+20:28:07.633 INFO  base.CustomDriver -Waiting for max:: 15 seconds for element to be clickable
+20:28:07.672 INFO  base.CustomDriver -Element is clickable on the web page
+20:28:08.443 INFO  base.CustomDriver -Clicked on :: Category Option
+20:28:08.486 INFO  base.CustomDriver -Clicked On :: Category Dropdown
+20:28:08.488 INFO  base.CustomDriver -Waiting for max:: 15 seconds for element to be clickable
+20:28:08.523 INFO  base.CustomDriver -Element is clickable on the web page
+20:28:08.536 INFO  base.CustomDriver -The text is : Software IT (4)
+20:28:08.560 INFO  base.CustomDriver -Clicked On :: Category Dropdown
+20:28:08.570 INFO  base.CustomDriver -Element List found with: xpath=>//div[@class='course-listing']
+20:28:08.570 INFO  base.CheckPoint -test-03.filter by category verification :-> PASS
+20:28:08.570 INFO  base.CheckPoint -Test Method Successful
+20:28:08.570 INFO  base.TestListeners -onTestSuccess -> Test Method Name: filterByCategory
+20:28:08.572 INFO  base.CheckPoint -Clearing Results Hash Map
+20:28:08.610 INFO  base.CustomDriver -Clicked On :: All Courses Link
+20:28:08.724 INFO  base.CustomDriver -Send Keys on element :: Search Course field with data :: rest api
+20:28:09.689 INFO  base.CustomDriver -Clicked On :: Search Course Button
+20:28:09.702 INFO  base.CustomDriver -Element List found with: xpath=>//div[@class='course-listing']
+20:28:09.705 INFO  base.CheckPoint -test-02.search course verification :-> PASS
+20:28:09.706 INFO  base.CheckPoint -Test Method Successful
+20:28:09.706 INFO  base.TestListeners -onTestSuccess -> Test Method Name: verifySearchCourse
+20:28:09.706 INFO  base.CheckPoint -Clearing Results Hash Map
+20:28:09.755 INFO  base.CustomDriver -Clicked On :: All Courses Link
+20:28:09.862 INFO  base.CustomDriver -Send Keys on element :: Search Course field with data :: javascript
+20:28:10.993 INFO  base.CustomDriver -Clicked On :: Search Course Button
+20:28:11.021 INFO  base.CustomDriver -Element List found with: xpath=>//div[@class='course-listing']
+20:28:11.026 INFO  base.CheckPoint -test-02.search course verification :-> PASS
+20:28:11.026 INFO  base.CheckPoint -Test Method Successful
+20:28:11.026 INFO  base.TestListeners -onTestSuccess -> Test Method Name: verifySearchCourse
+20:28:11.028 INFO  base.WebDriverFactory -OS Name from system property :: win
+20:28:11.028 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+20:28:15.282 ERROR base.CustomDriver -Element not found with: xpath=>//a[@href='/sign_in']
+20:28:15.283 ERROR base.CustomDriver -Cannot click on :: Login Link
+20:28:15.283 INFO  utilities.Util -Current Date and Time :: 05_07_2020 20_28_15
+20:28:15.969 INFO  base.CustomDriver -Screen Shot Was Stored at: C:\Users\cheap\workspace\letskodeit/screenshots/_Click ERROR_05_07_2020 20_28_15.png
+20:28:19.024 ERROR base.CustomDriver -Element not found with: id=>user_email
+20:28:19.025 ERROR base.CustomDriver -Cannot send keys on element :: Email Field with data :: asidcam@gmail.com
+20:28:22.034 ERROR base.CustomDriver -Element not found with: id=>user_password
+20:28:22.035 ERROR base.CustomDriver -Cannot send keys on element :: Password Field with data :: 246//Asid
+20:28:25.040 ERROR base.CustomDriver -Element not found with: name=>commit
+20:28:25.041 ERROR base.CustomDriver -Cannot click on :: Login Button
+20:28:25.041 INFO  utilities.Util -Current Date and Time :: 05_07_2020 20_28_25
+20:28:25.674 INFO  base.CustomDriver -Screen Shot Was Stored at: C:\Users\cheap\workspace\letskodeit/screenshots/_Click ERROR_05_07_2020 20_28_25.png
+20:28:25.675 INFO  base.CheckPoint -Clearing Results Hash Map
+20:28:25.732 INFO  base.CustomDriver -Clicked On :: Practice Link
+20:28:25.733 INFO  base.TestListeners -onTestSuccess -> Test Method Name: getText
+20:28:25.734 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test

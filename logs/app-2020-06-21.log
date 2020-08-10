@@ -1,0 +1,48 @@
+12:59:49.975 INFO  utilities.Util -Current Date and Time :: 06_21_2020 12_59_49
+12:59:49.988 INFO  utilities.ExtentManager -*********** Report Path ***********
+12:59:49.988 INFO  utilities.ExtentManager -C:\Users\cheap\workspace\letskodeit/reports/AutomationReport_06_21_2020 12_59_49.html
+12:59:49.988 INFO  utilities.ExtentManager -*********** Report Path ***********
+12:59:50.136 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+12:59:50.136 INFO  base.TestListeners -These methods will be executed in this <test> tag
+12:59:50.136 INFO  base.TestListeners -CheckboxBMW
+12:59:50.136 INFO  base.TestListeners -CheckboxBenz
+12:59:50.137 INFO  base.TestListeners -CheckboxHonda
+12:59:50.137 INFO  base.TestListeners -alert
+12:59:50.137 INFO  base.TestListeners -clickRadioBtnBenz
+12:59:50.137 INFO  base.TestListeners -clickRadioBtnHonda
+12:59:50.137 INFO  base.TestListeners -clickRadioButtonBMW
+12:59:50.137 INFO  base.TestListeners -hideTextBox
+12:59:50.137 INFO  base.TestListeners -mouseHover
+12:59:50.137 INFO  base.TestListeners -multipleSelectionApple
+12:59:50.137 INFO  base.TestListeners -multipleSelectionOrange
+12:59:50.137 INFO  base.TestListeners -multipleSelectionPeach
+12:59:50.137 INFO  base.TestListeners -openWindow
+12:59:50.137 INFO  base.TestListeners -selectDropdownBenz
+12:59:50.137 INFO  base.TestListeners -selectDropdownBmw
+12:59:50.138 INFO  base.TestListeners -selectDropdownHonda
+12:59:50.138 INFO  base.TestListeners -showTextBox
+12:59:50.138 INFO  base.TestListeners -switchWindow
+12:59:50.138 INFO  base.TestListeners -tableTextAuth1
+12:59:50.138 INFO  base.TestListeners -tableTextAuth2
+12:59:50.138 INFO  base.TestListeners -tableTextAuth3
+12:59:50.138 INFO  base.TestListeners -tableTextCourse1
+12:59:50.138 INFO  base.TestListeners -tableTextCourse2
+12:59:50.138 INFO  base.TestListeners -tableTextCourse3
+12:59:50.138 INFO  base.TestListeners -tableTextPrice1
+12:59:50.138 INFO  base.TestListeners -tableTextPrice2
+12:59:50.138 INFO  base.TestListeners -tableTextPrice3
+12:59:50.138 INFO  base.TestListeners -verifyTitle
+12:59:50.161 INFO  base.WebDriverFactory -OS Name from system property :: win
+12:59:50.161 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+13:00:02.317 INFO  base.CustomDriver -Clicked On :: Login Link
+13:00:04.858 INFO  base.CustomDriver -Send Keys on element :: Email Field with data :: asidcam@gmail.com
+13:00:04.940 INFO  base.CustomDriver -Send Keys on element :: Password Field with data :: 246//Asid
+13:00:05.010 INFO  base.CustomDriver -Clicked On :: Login Button
+13:00:15.098 ERROR base.CustomDriver -Element not found with: xpath=>//a[@href='/pages/practice']
+13:00:15.099 ERROR base.CustomDriver -Cannot click on :: Practice Link
+13:00:15.099 INFO  utilities.Util -Current Date and Time :: 06_21_2020 13_00_15
+13:00:15.606 INFO  base.CustomDriver -Screen Shot Was Stored at: C:\Users\cheap\workspace\letskodeit/screenshots/_Click ERROR_06_21_2020 13_00_15.png
+13:00:15.615 INFO  base.CheckPoint -Clearing Results Hash Map
+13:00:20.874 ERROR base.CustomDriver -Element not found with: id=>bmwcheck
+13:00:20.875 ERROR base.CustomDriver -Cannot click on :: BMW
+13:00:20.875 INFO  utilities.Util -Current Date and Time :: 06_21_2020 13_00_20

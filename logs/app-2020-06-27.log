@@ -1,0 +1,40 @@
+15:00:54.720 INFO  utilities.Util -Current Date and Time :: 06_27_2020 15_00_54
+15:00:54.734 INFO  utilities.ExtentManager -*********** Report Path ***********
+15:00:54.734 INFO  utilities.ExtentManager -C:\Users\cheap\workspace\letskodeit/reports/AutomationReport_06_27_2020 15_00_54.html
+15:00:54.734 INFO  utilities.ExtentManager -*********** Report Path ***********
+15:00:54.885 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+15:00:54.885 INFO  base.TestListeners -These methods will be executed in this <test> tag
+15:00:54.885 INFO  base.TestListeners -CheckboxBMW
+15:00:54.885 INFO  base.TestListeners -CheckboxBenz
+15:00:54.886 INFO  base.TestListeners -CheckboxHonda
+15:00:54.886 INFO  base.TestListeners -alert
+15:00:54.886 INFO  base.TestListeners -clickRadioBtnBenz
+15:00:54.886 INFO  base.TestListeners -clickRadioBtnHonda
+15:00:54.886 INFO  base.TestListeners -clickRadioButtonBMW
+15:00:54.886 INFO  base.TestListeners -hideTextBox
+15:00:54.886 INFO  base.TestListeners -mouseHover
+15:00:54.886 INFO  base.TestListeners -multipleSelectionApple
+15:00:54.886 INFO  base.TestListeners -multipleSelectionOrange
+15:00:54.886 INFO  base.TestListeners -multipleSelectionPeach
+15:00:54.886 INFO  base.TestListeners -openWindow
+15:00:54.886 INFO  base.TestListeners -selectDropdownBenz
+15:00:54.886 INFO  base.TestListeners -selectDropdownBmw
+15:00:54.886 INFO  base.TestListeners -selectDropdownHonda
+15:00:54.887 INFO  base.TestListeners -showTextBox
+15:00:54.887 INFO  base.TestListeners -switchWindow
+15:00:54.887 INFO  base.TestListeners -tableTextAuth1
+15:00:54.887 INFO  base.TestListeners -tableTextAuth2
+15:00:54.887 INFO  base.TestListeners -tableTextAuth3
+15:00:54.887 INFO  base.TestListeners -tableTextCourse1
+15:00:54.887 INFO  base.TestListeners -tableTextCourse2
+15:00:54.887 INFO  base.TestListeners -tableTextCourse3
+15:00:54.887 INFO  base.TestListeners -tableTextPrice1
+15:00:54.887 INFO  base.TestListeners -tableTextPrice2
+15:00:54.887 INFO  base.TestListeners -tableTextPrice3
+15:00:54.887 INFO  base.TestListeners -verifyTitle
+15:00:54.911 INFO  base.WebDriverFactory -OS Name from system property :: win
+15:00:54.911 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\cheap\workspace\letskodeit//drivers//chromedriver.exe
+15:01:04.830 INFO  base.CustomDriver -Clicked On :: Login Link
+15:01:07.574 INFO  base.CustomDriver -Send Keys on element :: Email Field with data :: asidcam@gmail.com
+15:01:07.660 INFO  base.CustomDriver -Send Keys on element :: Password Field with data :: 246//Asid
+15:01:07.726 INFO  base.CustomDriver -Clicked On :: Login Button
